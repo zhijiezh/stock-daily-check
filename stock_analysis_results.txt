@@ -782,19 +782,174 @@ Stocks with Upcoming Earnings:
 ***************************************************************************************************
 
 
-Analysis Date: 2024-02-21
+Analysis Date: 2024-02-06
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation P/E Ratio Recommended PE                Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         ASML  2024-02-06   904.890015           SELL  42.38031       (25, 35)              Technology           0.73  358370607104           0.131           954.06        None         None         None
+1         SMCI  2024-02-06   681.590027           SELL  57.58196       (25, 35)              Technology            N/A   41064550400           0.624           753.05        None         None         None
+2         SPOT  2024-02-06   231.919998           SELL       N/A     (N/A, N/A)  Communication Services            N/A   48317779968             N/A           262.19        None         None         None
+3    600733.SS  2024-02-06     3.950000            BUY       N/A     (N/A, N/A)       Consumer Cyclical            N/A   26808535040             N/A             6.00        None         None         None
+
+Warnings:
+{'SMCI': ['rule_price_increase']}
+
+Stocks with Upcoming Earnings:
+UHAL: Earnings on 2024-02-08 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-02-07
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE                Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         ASML  2024-02-07   922.229980           SELL   42.38031       (25, 35)              Technology           0.73  358370607104           0.131           954.06        None         None         None
+1          LLY  2024-02-07   724.110779           SELL  128.16322       (15, 25)              Healthcare            0.7  708736778240           0.131           760.37        None         None         None
+2         SPOT  2024-02-07   240.830002           SELL        N/A     (N/A, N/A)  Communication Services            N/A   48317779968             N/A           262.19        None         None         None
+
+Warnings:
+{'PLTR': ['rule_price_increase', 'rule_largest_gain'], 'SMCI': ['rule_price_increase'], 'UPS': ['rule_largest_gain'], '688091.SS': ['rule_largest_gain']}
+
+Stocks with Upcoming Earnings:
+UHAL: Earnings on 2024-02-07 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-02-08
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{'PLTR': ['rule_price_increase'], 'SMCI': ['rule_price_increase'], 'SNAP': ['rule_falling_below_ma']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2024-02-09
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE    Category  Dividend Yield    Market Cap  Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         ASML  2024-02-09   949.599976           SELL   42.38031       (25, 35)  Technology            0.73  358370607104            0.131           954.06        None         None         None
+
+Warnings:
+{'ASML': ['rule_accelerating_growth'], 'ARM': ['rule_largest_gain'], 'DIS': ['rule_largest_gain'], 'SMCI': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2024-02-12
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation   P/E Ratio Recommended PE    Category Dividend Yield    Market Cap  Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0          ARM  2024-02-12   148.970001           SELL  1370.99990       (25, 35)  Technology            N/A  126854791168           -0.549           101.51        None         None         None
+1         SMCI  2024-02-12   773.010010           SELL    57.58196       (25, 35)  Technology            N/A   41064550400            0.624           753.05        None         None         None
+
+Warnings:
+{'ASML': ['rule_accelerating_growth'], 'PLTR': ['rule_price_increase'], 'SMCI': ['rule_price_increase', 'rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+NVDA: Earnings on 2024-02-20 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-02-13
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE    Category Dividend Yield   Market Cap  Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         SMCI  2024-02-13    791.48999           SELL   57.58196       (25, 35)  Technology            N/A  41064550400            0.624           753.05        None         None         None
+
+Warnings:
+{'ASML': ['rule_accelerating_growth'], 'CVNA': ['rule_price_increase'], 'COIN': ['rule_price_increase'], 'PLTR': ['rule_price_increase'], 'SMCI': ['rule_accelerating_growth'], 'BTC-USD': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+NVDA: Earnings on 2024-02-20 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-02-14
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date   Daily Price Recommendation  P/E Ratio Recommended PE    Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0          LLY  2024-02-14    757.309998           SELL  128.16322       (15, 25)  Healthcare            0.7   708736778240           0.131           760.37        None         None         None
+1         SMCI  2024-02-14    880.549988           SELL   57.58196       (25, 35)  Technology            N/A    41064550400           0.624           753.05        None         None         None
+2      BTC-USD  2024-02-14  51826.695312           SELL        N/A     (N/A, N/A)         N/A            N/A  1007691890688             N/A              NaN        None         None         None
+3      ETH-USD  2024-02-14   2777.902344           SELL        N/A     (N/A, N/A)         N/A            N/A   350552064000             N/A              NaN        None         None         None
+
+Warnings:
+{'SMCI': ['rule_accelerating_growth'], 'BTC-USD': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+NVDA: Earnings on 2024-02-20 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-02-15
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date   Daily Price Recommendation P/E Ratio Recommended PE    Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         SMCI  2024-02-15   1004.000000           SELL  57.58196       (25, 35)  Technology            N/A    41064550400           0.624           753.05        None         None         None
+1      BTC-USD  2024-02-15  51938.554688           SELL       N/A     (N/A, N/A)         N/A            N/A  1007691890688             N/A              NaN        None         None         None
+2      ETH-USD  2024-02-15   2824.378906           SELL       N/A     (N/A, N/A)         N/A            N/A   350552064000             N/A              NaN        None         None         None
+
+Warnings:
+{'COIN': ['rule_price_increase'], 'HOOD': ['rule_largest_gain'], 'LYFT': ['rule_price_increase', 'rule_largest_gain'], 'SMCI': ['rule_price_increase', 'rule_accelerating_growth'], 'UBER': ['rule_largest_gain'], 'BTC-USD': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+NVDA: Earnings on 2024-02-20 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-02-16
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE    Category  Dividend Yield    Market Cap  Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0          LLY  2024-02-16   782.059998           SELL  128.16322       (15, 25)  Healthcare             0.7  708736778240            0.131           760.37        None         None         None
+
+Warnings:
+{'LYFT': ['rule_price_increase'], 'OXY': ['rule_largest_gain'], 'SMCI': ['rule_price_increase', 'rule_accelerating_growth'], 'WFC': ['rule_largest_gain'], 'BTC-USD': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+NVDA: Earnings on 2024-02-20 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-02-20
 Tickers:
 ['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
 
 Stock Table:
   Company Code        Date   Daily Price Recommendation P/E Ratio Recommended PE Category Dividend Yield     Market Cap Earnings Growth One Year Target Analyst Buy Analyst Hold Analyst Sell
-0      BTC-USD  2024-02-20  52284.875000           SELL       N/A     (N/A, N/A)      N/A            N/A  1006690631680             N/A            None        None         None         None
-1      ETH-USD  2024-02-20   3013.503662           SELL       N/A     (N/A, N/A)      N/A            N/A   350335893504             N/A            None        None         None         None
+0      BTC-USD  2024-02-20  52284.875000           SELL       N/A     (N/A, N/A)      N/A            N/A  1007796682752             N/A            None        None         None         None
+1      ETH-USD  2024-02-20   3013.503662           SELL       N/A     (N/A, N/A)      N/A            N/A   350584504320             N/A            None        None         None         None
 
 Warnings:
-{'HOOD': ['rule_accelerating_growth'], 'LYFT': ['rule_price_increase']}
+{'COIN': ['rule_price_increase', 'rule_accelerating_growth'], 'HOOD': ['rule_accelerating_growth'], 'LYFT': ['rule_price_increase'], 'SMCI': ['rule_accelerating_growth']}
 
 Stocks with Upcoming Earnings:
+NVDA: Earnings on 2024-02-20 00:00:00
 CRM: Earnings on 2024-02-27 00:00:00
 
 ***************************************************************************************************
