@@ -1,0 +1,801 @@
+Analysis Date: 2023-10-02
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE            Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0          AAL  2023-10-02    12.750000            BUY   12.22314       (15, 25)         Industrials            N/A    9676697600          -0.974            17.27        None         None         None
+1         ARKK  2023-10-02    39.040001            BUY        N/A     (N/A, N/A)                 N/A            N/A           N/A             N/A              NaN        None         None         None
+2          BAC  2023-10-02    26.488585            BUY  10.941559     (N/A, N/A)  Financial Services           2.83  266076995584          -0.588            38.03        None         None         None
+3          LLY  2023-10-02   536.357117            BUY  135.12862       (15, 25)          Healthcare           0.69  708097540096           0.131           760.37        None         None         None
+4          NEE  2023-10-02    51.729061            BUY  15.861111       (10, 20)           Utilities           3.61  117193744384          -0.234            71.87        None         None         None
+5           BA  2023-10-02   187.830002            BUY        N/A       (15, 25)         Industrials            N/A  122984914944             N/A           258.23        None         None         None
+6          UAL  2023-10-02    41.619999            BUY   5.583016       (15, 25)         Industrials            N/A   14449060864          -0.291            63.84        None         None         None
+7          MMM  2023-10-02    87.371025            BUY        N/A       (15, 25)         Industrials           6.58   50688118784           0.744           104.50        None         None         None
+
+Warnings:
+{'NKE': ['rule_falling_below_ma'], 'ETH-USD': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-10-03
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE                Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0          ARKK  2023-10-03    37.970001            BUY        N/A     (N/A, N/A)                     N/A            N/A           N/A             N/A              NaN        None         None         None
+1           BAC  2023-10-03    25.704840            BUY  10.941559     (N/A, N/A)      Financial Services           2.83  266076995584          -0.588            38.03        None         None         None
+2           CRM  2023-10-03   199.830002            BUY  107.81368       (25, 35)              Technology            N/A  274476384256           4.952           293.99        None         None         None
+3           LLY  2023-10-03   523.304138            BUY  135.12862       (15, 25)              Healthcare           0.69  708097540096           0.131           760.37        None         None         None
+4           NEE  2023-10-03    52.353973            BUY  15.861111       (10, 20)               Utilities           3.61  117193744384          -0.234            71.87        None         None         None
+5          SBUX  2023-10-03    88.458778            BUY  25.406416     (N/A, N/A)       Consumer Cyclical           2.44  107583545344           0.216           107.15        None         None         None
+6            BA  2023-10-03   188.919998            BUY        N/A       (15, 25)             Industrials            N/A  122984914944             N/A           258.23        None         None         None
+7           TMF  2023-10-03    42.358738            BUY        N/A     (N/A, N/A)                     N/A            N/A           N/A             N/A              NaN        None         None         None
+8           UAL  2023-10-03    40.529999            BUY   5.583016       (15, 25)             Industrials            N/A   14449060864          -0.291            63.84        None         None         None
+9          UHAL  2023-10-03    52.490002            BUY  20.503086       (15, 25)             Industrials           0.28   12791229440          -0.501            64.10        None         None         None
+10          MMM  2023-10-03    85.986191            BUY        N/A       (15, 25)             Industrials           6.58   50688118784           0.744           104.50        None         None         None
+11         NFLX  2023-10-03   376.750000            BUY  47.699665     (N/A, N/A)  Communication Services            N/A  248122933248          16.252           575.64        None         None         None
+
+Warnings:
+{'NEE': ['rule_falling_below_ma']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-10-04
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE            Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0          BAC  2023-10-04    25.734604            BUY  10.941559     (N/A, N/A)  Financial Services           2.83  266076995584          -0.588            38.03        None         None         None
+1           BA  2023-10-04   186.729996            BUY        N/A       (15, 25)         Industrials            N/A  122984914944             N/A           258.23        None         None         None
+2          MMM  2023-10-04    85.240501            BUY        N/A       (15, 25)         Industrials           6.58   50688118784           0.744           104.50        None         None         None
+
+Warnings:
+{}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-10-05
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE            Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0          ALK  2023-10-05    35.680000            BUY  21.409836       (15, 25)         Industrials            N/A    4940206080             N/A            51.10        None         None         None
+1         CVNA  2023-10-05    35.740002            BUY        N/A     (N/A, N/A)   Consumer Cyclical            N/A    8773440512             N/A            38.89        None         None         None
+2           KO  2023-10-05    51.966213            BUY  24.793522     (N/A, N/A)  Consumer Defensive            3.2  264095039488          -0.005            66.27        None         None         None
+
+Warnings:
+{'SMCI': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-10-06
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE            Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0          ALK  2023-10-06    35.070000            BUY  21.409836       (15, 25)         Industrials            N/A    4940206080             N/A            51.10        None         None         None
+1          BAC  2023-10-06    25.863573            BUY  10.941559     (N/A, N/A)  Financial Services           2.83  266076995584          -0.588            38.03        None         None         None
+2           KO  2023-10-06    52.720211            BUY  24.793522     (N/A, N/A)  Consumer Defensive            3.2  264095039488          -0.005            66.27        None         None         None
+3          TMF  2023-10-06    41.767685            BUY        N/A     (N/A, N/A)                 N/A            N/A           N/A             N/A              NaN        None         None         None
+
+Warnings:
+{'SMCI': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-10-09
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE     Category Dividend Yield   Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0          ALK  2023-10-09    34.450001            BUY  21.409836       (15, 25)  Industrials            N/A   4940206080             N/A            51.10        None         None         None
+1          UAL  2023-10-09    39.779999            BUY   5.583016       (15, 25)  Industrials            N/A  14449060864          -0.291            63.84        None         None         None
+
+Warnings:
+{'SMCI': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-10-10
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{'DUOL': ['rule_accelerating_growth'], 'MDB': ['rule_accelerating_growth'], 'MSFT': ['rule_accelerating_growth'], 'PDD': ['rule_accelerating_growth'], 'SMCI': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-10-11
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{'AMC': ['rule_price_increase'], 'DUOL': ['rule_accelerating_growth'], 'MDB': ['rule_accelerating_growth'], 'PDD': ['rule_accelerating_growth'], 'SMCI': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-10-12
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{'MDB': ['rule_accelerating_growth'], 'PDD': ['rule_accelerating_growth'], 'XOM': ['rule_falling_below_ma']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-10-13
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{'AMC': ['rule_price_increase'], 'LLY': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-10-16
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-10-17
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{'LLY': ['rule_accelerating_growth'], 'WFC': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-10-18
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{'WFC': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-10-19
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{'NKE': ['rule_accelerating_growth'], 'UAL': ['rule_falling_below_ma'], '600733.SS': ['rule_price_increase']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-10-20
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{'TMF': ['rule_falling_below_ma'], 'NFLX': ['rule_largest_gain'], '600733.SS': ['rule_price_increase']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-10-23
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE     Category Dividend Yield   Market Cap Earnings Growth One Year Target Analyst Buy Analyst Hold Analyst Sell
+0    600221.SS  2023-10-23         1.34            BUY       29.0       (15, 25)  Industrials            N/A  62623764480             N/A            None        None         None         None
+
+Warnings:
+{'600733.SS': ['rule_price_increase']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-10-24
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-10-25
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{'NEE': ['rule_largest_gain'], '300169.SZ': ['rule_price_increase']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-10-26
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE           Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         CVNA  2023-10-26    29.100000            BUY        N/A     (N/A, N/A)  Consumer Cyclical            N/A    8773440512             N/A            38.89        None         None         None
+1          DAL  2023-10-26    31.600000            BUY   5.684797       (15, 25)        Industrials           0.98   26221887488           1.436            54.53        None         None         None
+2          UPS  2023-10-26   138.210007            BUY  19.008974       (15, 25)        Industrials            4.4  126422859776          -0.529           159.58        None         None         None
+
+Warnings:
+{'300169.SZ': ['rule_price_increase']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-10-27
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE           Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         CVNA  2023-10-27    28.580000            BUY        N/A     (N/A, N/A)  Consumer Cyclical            N/A    8773440512             N/A            38.89        None         None         None
+1          DAL  2023-10-27    30.650000            BUY   5.684797       (15, 25)        Industrials           0.98   26221887488           1.436            54.53        None         None         None
+2          UPS  2023-10-27   134.830002            BUY  19.008974       (15, 25)        Industrials            4.4  126422859776          -0.529           159.58        None         None         None
+
+Warnings:
+{'ETH-USD': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-10-30
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation P/E Ratio Recommended PE           Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0          DAL  2023-10-30    31.230000            BUY  5.684797       (15, 25)        Industrials           0.98   26221887488           1.436            54.53        None         None         None
+1         SAVE  2023-10-30    13.060000            BUY       N/A       (15, 25)        Industrials            N/A     712701824             N/A             7.50        None         None         None
+2         TSLA  2023-10-30   197.360001            BUY  45.29535     (N/A, N/A)  Consumer Cyclical            N/A  620301582336           1.115           207.75        None         None         None
+
+Warnings:
+{'INTC': ['rule_largest_gain']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-10-31
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date   Daily Price Recommendation P/E Ratio Recommended PE           Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         SAVE  2023-10-31     11.480000            BUY       N/A       (15, 25)        Industrials            N/A      712701824             N/A             7.50        None         None         None
+1         TSLA  2023-10-31    200.839996            BUY  45.29535     (N/A, N/A)  Consumer Cyclical            N/A   620301582336           1.115           207.75        None         None         None
+2      BTC-USD  2023-10-31  34667.781250           SELL       N/A     (N/A, N/A)                N/A            N/A  1008548904960             N/A              NaN        None         None         None
+3      ETH-USD  2023-10-31   1816.458984           SELL       N/A     (N/A, N/A)                N/A            N/A   351210438656             N/A              NaN        None         None         None
+
+Warnings:
+{}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-11-01
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date   Daily Price Recommendation P/E Ratio Recommended PE           Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         CVNA  2023-11-01     25.990000            BUY       N/A     (N/A, N/A)  Consumer Cyclical            N/A     8773440512             N/A            38.89        None         None         None
+1      BTC-USD  2023-11-01  35437.253906           SELL       N/A     (N/A, N/A)                N/A            N/A  1008548904960             N/A              NaN        None         None         None
+2      ETH-USD  2023-11-01   1847.089722           SELL       N/A     (N/A, N/A)                N/A            N/A   351210438656             N/A              NaN        None         None         None
+
+Warnings:
+{}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-11-02
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-11-03
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{'DASH': ['rule_largest_gain'], 'MSFT': ['rule_accelerating_growth'], 'SHOP': ['rule_price_increase'], 'SBUX': ['rule_largest_gain'], 'BA': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-11-06
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{'DASH': ['rule_price_increase'], 'MSFT': ['rule_accelerating_growth'], 'PLTR': ['rule_price_increase'], 'SHOP': ['rule_price_increase'], 'BA': ['rule_accelerating_growth'], 'TMF': ['rule_falling_below_ma']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-11-07
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{'MSFT': ['rule_accelerating_growth'], 'PLTR': ['rule_price_increase'], 'SHOP': ['rule_price_increase'], 'ETH-USD': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-11-08
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation P/E Ratio Recommended PE     Category Dividend Yield  Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         SAVE  2023-11-08         10.2            BUY       N/A       (15, 25)  Industrials            N/A   712701824             N/A              7.5        None         None         None
+
+Warnings:
+{'CVNA': ['rule_price_increase'], 'DDOG': ['rule_price_increase', 'rule_largest_gain'], 'MSFT': ['rule_accelerating_growth'], 'PLTR': ['rule_price_increase'], 'SHOP': ['rule_price_increase'], 'UBER': ['rule_accelerating_growth'], 'DHI': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-11-09
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation P/E Ratio Recommended PE     Category Dividend Yield  Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         SAVE  2023-11-09         9.31            BUY       N/A       (15, 25)  Industrials            N/A   712701824             N/A              7.5        None         None         None
+
+Warnings:
+{'AAPL': ['rule_accelerating_growth'], 'CDNS': ['rule_accelerating_growth'], 'CVNA': ['rule_price_increase'], 'MSFT': ['rule_accelerating_growth'], 'NVDA': ['rule_accelerating_growth'], 'ORCL': ['rule_accelerating_growth'], 'RBLX': ['rule_accelerating_growth'], 'SHOP': ['rule_price_increase'], 'UBER': ['rule_accelerating_growth'], 'DHI': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-11-10
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation P/E Ratio Recommended PE     Category Dividend Yield  Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         SAVE  2023-11-10         8.78            BUY       N/A       (15, 25)  Industrials            N/A   712701824             N/A              7.5        None         None         None
+
+Warnings:
+{'CDNS': ['rule_accelerating_growth'], 'COIN': ['rule_accelerating_growth'], 'DDOG': ['rule_price_increase'], 'DIS': ['rule_largest_gain'], 'DUOL': ['rule_price_increase'], 'MSFT': ['rule_accelerating_growth'], 'NVDA': ['rule_accelerating_growth'], 'SNAP': ['rule_accelerating_growth'], 'UBER': ['rule_accelerating_growth'], 'ETH-USD': ['rule_largest_gain']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-11-13
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{'CDNS': ['rule_accelerating_growth'], 'COIN': ['rule_accelerating_growth'], 'DDOG': ['rule_price_increase'], 'DUOL': ['rule_price_increase', 'rule_accelerating_growth'], 'MSFT': ['rule_accelerating_growth'], 'NVDA': ['rule_accelerating_growth'], 'SNAP': ['rule_accelerating_growth'], 'UBER': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-11-14
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE                Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         CDNS  2023-11-14   272.619995           SELL  76.314964       (25, 35)              Technology            N/A   79156215808           0.351           322.34        None         None         None
+1         SNAP  2023-11-14    12.150000           SELL        N/A     (N/A, N/A)  Communication Services            N/A   17727766528             N/A            14.12        None         None         None
+2           BA  2023-11-14   207.470001           SELL        N/A       (15, 25)             Industrials            N/A  122984914944             N/A           258.23        None         None         None
+3          DHI  2023-11-14   128.899994           SELL  10.373919     (N/A, N/A)       Consumer Cyclical           0.83   47778328576           0.022           159.83        None         None         None
+
+Warnings:
+{'CDNS': ['rule_accelerating_growth'], 'DDOG': ['rule_price_increase'], 'DUOL': ['rule_price_increase', 'rule_accelerating_growth'], 'META': ['rule_accelerating_growth'], 'NVDA': ['rule_accelerating_growth'], 'UBER': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-11-15
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{'BAC': ['rule_largest_gain'], 'CDNS': ['rule_accelerating_growth'], 'DUOL': ['rule_price_increase', 'rule_accelerating_growth'], 'KRE': ['rule_largest_gain'], 'META': ['rule_accelerating_growth'], 'NVDA': ['rule_accelerating_growth'], 'SNAP': ['rule_accelerating_growth'], 'UBER': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-11-16
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation P/E Ratio Recommended PE                Category Dividend Yield   Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         SNAP  2023-11-16        12.07           SELL       N/A     (N/A, N/A)  Communication Services            N/A  17727766528             N/A            14.12        None         None         None
+
+Warnings:
+{'CDNS': ['rule_accelerating_growth'], 'META': ['rule_accelerating_growth'], 'NVDA': ['rule_accelerating_growth'], 'PDD': ['rule_accelerating_growth'], 'SAVE': ['rule_largest_gain'], 'SNAP': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-11-17
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{'CDNS': ['rule_accelerating_growth'], 'META': ['rule_accelerating_growth'], 'NVDA': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-11-20
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation   P/E Ratio Recommended PE                Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         COIN  2023-11-20   106.099998           SELL  438.945950     (N/A, N/A)      Financial Services            N/A    39347884032             N/A             0.40        None         None         None
+1         META  2023-11-20   339.970001           SELL   31.432505     (N/A, N/A)  Communication Services           0.43  1193200320512           2.002           503.80        None         None         None
+2         NVDA  2023-11-20   504.089996           SELL   89.248670       (25, 35)              Technology           0.02  1666558459904          12.741           729.74        None         None         None
+3         UBER  2023-11-20    54.750000           SELL   87.862070       (25, 35)              Technology            N/A   158727667712           1.269            84.90        None         None         None
+
+Warnings:
+{'CDNS': ['rule_accelerating_growth'], 'DUOL': ['rule_accelerating_growth'], 'META': ['rule_accelerating_growth'], 'SAVE': ['rule_price_increase', 'rule_largest_gain', 'rule_falling_below_ma']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-11-21
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE            Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         COIN  2023-11-21   105.489998           SELL  438.94595     (N/A, N/A)  Financial Services            N/A   39347884032             N/A              0.4        None         None         None
+1         UBER  2023-11-21    54.849998           SELL   87.86207       (25, 35)          Technology            N/A  158727667712           1.269             84.9        None         None         None
+
+Warnings:
+{'ARM': ['rule_largest_gain'], 'CDNS': ['rule_accelerating_growth'], 'DUOL': ['rule_accelerating_growth'], 'META': ['rule_accelerating_growth'], 'SAVE': ['rule_price_increase'], 'SPOT': ['rule_accelerating_growth'], 'BA': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-11-22
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation P/E Ratio Recommended PE                Category Dividend Yield  Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0          AMC  2023-11-22         6.99            BUY       N/A     (N/A, N/A)  Communication Services            N/A  1133158912             N/A             6.22        None         None         None
+
+Warnings:
+{'CDNS': ['rule_accelerating_growth'], 'DDOG': ['rule_accelerating_growth'], 'ISRG': ['rule_accelerating_growth'], 'SAVE': ['rule_price_increase'], 'BA': ['rule_accelerating_growth'], 'TRV': ['rule_accelerating_growth'], 'UBER': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-11-24
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE            Category Dividend Yield   Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         COIN  2023-11-24   115.540001           SELL  438.94595     (N/A, N/A)  Financial Services            N/A  39347884032             N/A              0.4        None         None         None
+
+Warnings:
+{'DDOG': ['rule_accelerating_growth'], 'ISRG': ['rule_accelerating_growth'], 'KO': ['rule_accelerating_growth'], 'SHOP': ['rule_accelerating_growth'], 'BA': ['rule_accelerating_growth'], 'TRV': ['rule_accelerating_growth'], 'UBER': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-11-27
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE            Category Dividend Yield   Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         COIN  2023-11-27   119.769997           SELL  438.94595     (N/A, N/A)  Financial Services            N/A  39347884032             N/A             0.40        None         None         None
+1         DDOG  2023-11-27   111.919998           SELL  898.85710       (25, 35)          Technology            N/A  41345232896             N/A           147.76        None         None         None
+
+Warnings:
+{'DDOG': ['rule_accelerating_growth'], 'ISRG': ['rule_accelerating_growth'], 'KO': ['rule_accelerating_growth'], 'BA': ['rule_accelerating_growth'], 'TRV': ['rule_accelerating_growth'], 'UPS': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-11-28
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE                Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0          AMC  2023-11-28     6.700000            BUY        N/A     (N/A, N/A)  Communication Services            N/A    1133158912             N/A             6.22        None         None         None
+1         COIN  2023-11-28   128.270004           SELL  438.94595     (N/A, N/A)      Financial Services            N/A   39347884032             N/A             0.40        None         None         None
+2           BA  2023-11-28   222.369995           SELL        N/A       (15, 25)             Industrials            N/A  122984914944             N/A           258.23        None         None         None
+
+Warnings:
+{'ISRG': ['rule_accelerating_growth'], 'INTC': ['rule_accelerating_growth'], 'TRV': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-11-29
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE            Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         COIN  2023-11-29   127.820000           SELL  438.94595     (N/A, N/A)  Financial Services            N/A   39347884032             N/A             0.40        None         None         None
+1         DDOG  2023-11-29   116.650002           SELL   898.8571       (25, 35)          Technology            N/A   41345232896             N/A           147.76        None         None         None
+2           BA  2023-11-29   224.429993           SELL        N/A       (15, 25)         Industrials            N/A  122984914944             N/A           258.23        None         None         None
+3         UBER  2023-11-29    56.400002           SELL   87.86207       (25, 35)          Technology            N/A  158727667712           1.269            84.90        None         None         None
+
+Warnings:
+{'LYFT': ['rule_largest_gain'], 'INTC': ['rule_accelerating_growth'], 'TRV': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-11-30
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE            Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0          CRM  2023-11-30   251.899994           SELL  107.81368       (25, 35)          Technology            N/A  274476384256           4.952           293.99        None         None         None
+1         DDOG  2023-11-30   116.570000           SELL   898.8571       (25, 35)          Technology            N/A   41345232896             N/A           147.76        None         None         None
+2          JPM  2023-11-30   156.080002           SELL  11.146026     (N/A, N/A)  Financial Services           2.34  521058910208           -0.15           191.33        None         None         None
+3           BA  2023-11-30   231.630005           SELL        N/A       (15, 25)         Industrials            N/A  122984914944             N/A           258.23        None         None         None
+4         UBER  2023-11-30    56.380001           SELL   87.86207       (25, 35)          Technology            N/A  158727667712           1.269            84.90        None         None         None
+
+Warnings:
+{'INTC': ['rule_accelerating_growth'], 'TRV': ['rule_accelerating_growth'], 'UBER': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-12-01
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE     Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0          CRM  2023-12-01   260.000000           SELL  107.81368       (25, 35)   Technology            N/A  274476384256           4.952           293.99        None         None         None
+1           BA  2023-12-01   233.869995           SELL        N/A       (15, 25)  Industrials            N/A  122984914944             N/A           258.23        None         None         None
+2         UBER  2023-12-01    57.349998           SELL   87.86207       (25, 35)   Technology            N/A  158727667712           1.269            84.90        None         None         None
+
+Warnings:
+{'PDD': ['rule_price_increase'], 'BA': ['rule_accelerating_growth'], 'TRV': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-12-04
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation   P/E Ratio Recommended PE            Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         COIN  2023-12-04   141.089996           SELL  438.945950     (N/A, N/A)  Financial Services            N/A   39347884032             N/A             0.40        None         None         None
+1          JPM  2023-12-04   157.990005           SELL   11.146026     (N/A, N/A)  Financial Services           2.34  521058910208           -0.15           191.33        None         None         None
+2         UBER  2023-12-04    58.630001           SELL   87.862070       (25, 35)          Technology            N/A  158727667712           1.269            84.90        None         None         None
+
+Warnings:
+{'LYFT': ['rule_price_increase', 'rule_largest_gain'], 'PFE': ['rule_falling_below_ma'], 'SNAP': ['rule_accelerating_growth'], 'BA': ['rule_accelerating_growth'], 'TRV': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-12-05
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date   Daily Price Recommendation  P/E Ratio Recommended PE           Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         SBUX  2023-12-05     95.540001            BUY  25.406416     (N/A, N/A)  Consumer Cyclical            2.4   107583545344           0.216           107.15        None         None         None
+1      BTC-USD  2023-12-05  44080.648438           SELL        N/A     (N/A, N/A)                N/A            N/A  1008146644992             N/A              NaN        None         None         None
+
+Warnings:
+{'ALK': ['rule_falling_below_ma'], 'CVNA': ['rule_price_increase'], 'SNAP': ['rule_accelerating_growth'], 'BA': ['rule_accelerating_growth'], 'TRV': ['rule_accelerating_growth'], 'UHAL': ['rule_accelerating_growth'], 'WFC': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2023-12-06
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE           Category  Dividend Yield    Market Cap  Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         BABA  2023-12-06    71.489998            BUY  14.048327     (N/A, N/A)  Consumer Cyclical            1.32  188950003712           -0.684            110.5        None         None         None
+1          OXY  2023-12-06    56.480000            BUY  15.505128        (5, 15)             Energy            1.46   53183307776           -0.379             66.0        None         None         None
+
+Warnings:
+{'HOOD': ['rule_largest_gain', 'rule_accelerating_growth'], 'SAVE': ['rule_falling_below_ma'], 'SNAP': ['rule_accelerating_growth'], 'TRV': ['rule_accelerating_growth'], 'WFC': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+
+Analysis Date: 2024-02-21
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date   Daily Price Recommendation P/E Ratio Recommended PE Category Dividend Yield     Market Cap Earnings Growth One Year Target Analyst Buy Analyst Hold Analyst Sell
+0      BTC-USD  2024-02-20  52284.875000           SELL       N/A     (N/A, N/A)      N/A            N/A  1006690631680             N/A            None        None         None         None
+1      ETH-USD  2024-02-20   3013.503662           SELL       N/A     (N/A, N/A)      N/A            N/A   350335893504             N/A            None        None         None         None
+
+Warnings:
+{'HOOD': ['rule_accelerating_growth'], 'LYFT': ['rule_price_increase']}
+
+Stocks with Upcoming Earnings:
+CRM: Earnings on 2024-02-27 00:00:00
+
+***************************************************************************************************
+
