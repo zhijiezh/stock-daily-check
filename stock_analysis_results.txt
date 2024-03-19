@@ -1033,3 +1033,169 @@ ORCL: Earnings on 2024-03-07 00:00:00
 
 ***************************************************************************************************
 
+Analysis Date: 2024-02-29
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{'600733.SS': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+COST: Earnings on 2024-03-07 00:00:00
+ORCL: Earnings on 2024-03-07 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-03-01
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Analysis Date: 2024-03-01
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{'AAPL': ['rule_falling_below_ma'], 'CVNA': ['rule_price_increase'], 'DUOL': ['rule_price_increase', 'rule_largest_gain'], 'SNOW': ['rule_falling_below_ma'], '600733.SS': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+COST: Earnings on 2024-03-07 00:00:00
+ORCL: Earnings on 2024-03-07 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-03-04
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{'DUOL': ['rule_price_increase'], '600733.SS': ['rule_price_increase', 'rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+COST: Earnings on 2024-03-07 00:00:00
+ORCL: Earnings on 2024-03-07 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-03-05
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE            Category  Dividend Yield     Market Cap  Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         AAPL  2024-03-05   170.119995            BUY  27.132376       (25, 35)          Technology            0.53  2626975956992             0.16           201.41        None         None         None
+1          WFC  2024-03-05    56.599998           SELL  11.574642     (N/A, N/A)  Financial Services            2.54   202483105792             0.15            56.70        None         None         None
+
+Warnings:
+{}
+
+Stocks with Upcoming Earnings:
+COST: Earnings on 2024-03-07 00:00:00
+ORCL: Earnings on 2024-03-11 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-03-06
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE            Category  Dividend Yield    Market Cap  Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0          WFC  2024-03-06    57.110001           SELL  11.824017     (N/A, N/A)  Financial Services            2.47  204307595264             0.15             56.7        None         None         None
+
+Warnings:
+{'ALB': ['rule_falling_below_ma'], 'SMCI': ['rule_price_increase']}
+
+Stocks with Upcoming Earnings:
+COST: Earnings on 2024-03-07 00:00:00
+ORCL: Earnings on 2024-03-11 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-03-08
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  P/E Ratio Recommended PE           Category Dividend Yield    Market Cap  Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0          PDD  2024-03-08   110.339996            BUY  25.134396     (N/A, N/A)  Consumer Cyclical            N/A  146596610048             0.44           170.28        None         None         None
+
+Warnings:
+{'COIN': ['rule_accelerating_growth'], 'SMCI': ['rule_price_increase']}
+
+Stocks with Upcoming Earnings:
+ORCL: Earnings on 2024-03-11 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-03-12
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{'XOM': ['rule_accelerating_growth'], 'BTC-USD': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+PDD: Earnings on 2024-03-18 00:00:00
+BNTX: Earnings on 2024-03-20 00:00:00
+NKE: Earnings on 2024-03-21 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-03-14
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{'600733.SS': ['rule_price_increase']}
+
+Stocks with Upcoming Earnings:
+BNTX: Earnings on 2024-03-20 00:00:00
+PDD: Earnings on 2024-03-20 00:00:00
+NKE: Earnings on 2024-03-21 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-03-18
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Warnings:
+{'600733.SS': ['rule_price_increase']}
+
+Stocks with Upcoming Earnings:
+BNTX: Earnings on 2024-03-20 00:00:00
+PDD: Earnings on 2024-03-20 00:00:00
+NKE: Earnings on 2024-03-21 00:00:00
+
+***************************************************************************************************
+
