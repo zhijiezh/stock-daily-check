@@ -1933,3 +1933,72 @@ Stocks with Upcoming Earnings:
 
 ***************************************************************************************************
 
+Analysis Date: 2024-06-14
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  60 DAY RSI P/E Ratio Recommended PE         Category Dividend Yield   Market Cap Earnings Growth One Year Target Analyst Buy Analyst Hold Analyst Sell
+0    600221.SS  2024-06-14         1.26       RISK BUY   40.298500      63.0       (15, 25)      Industrials            N/A  54356402176           3.297            None        None         None         None
+1    300169.SZ  2024-06-14         5.04            BUY   46.085672       N/A     (N/A, N/A)  Basic Materials            N/A   1642959360             N/A            None        None         None         None
+
+Warnings:
+{'LLY': ['rule_accelerating_growth'], 'SHOP': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2024-06-14
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  60 DAY RSI P/E Ratio Recommended PE         Category Dividend Yield   Market Cap Earnings Growth One Year Target Analyst Buy Analyst Hold Analyst Sell
+0    600221.SS  2024-06-14         1.26       RISK BUY   40.298500      63.0       (15, 25)      Industrials            N/A  54356402176           3.297            None        None         None         None
+1    300169.SZ  2024-06-14         5.04            BUY   46.085672       N/A     (N/A, N/A)  Basic Materials            N/A   1642959360             N/A            None        None         None         None
+
+Warnings:
+{'LLY': ['rule_accelerating_growth'], 'SHOP': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2024-06-13
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date   Daily Price Recommendation  60 DAY RSI   P/E Ratio Recommended PE                Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AAL  2024-06-13     11.440000       RISK BUY   42.003850    15.71831       (15, 25)             Industrials            N/A     7321964032             N/A            15.46        None         None         None
+1          ABNB  2024-06-13    146.100006       RISK BUY   43.633862   19.449732     (N/A, N/A)       Consumer Cyclical            N/A    92112699392           1.301           152.42        None         None         None
+2           ALB  2024-06-13    108.230003            BUY   46.358204   37.733696     (N/A, N/A)         Basic Materials           1.48    12239849472             N/A           149.38        None         None         None
+3          ALTM  2024-06-13      3.620000       RISK BUY   44.417175         N/A     (N/A, N/A)         Basic Materials            N/A     3755342336          -0.957             8.48        None         None         None
+4          BABA  2024-06-13     75.680000       RISK BUY   52.600586   16.805681     (N/A, N/A)       Consumer Cyclical           2.64   180340768768          -0.855           109.58        None         None         None
+5          BILI  2024-06-13     15.500000       RISK BUY   56.793780         N/A     (N/A, N/A)  Communication Services            N/A     6196989952             N/A            16.66        None         None         None
+6           CRM  2024-06-13    229.029999            BUY   35.239681   41.763912       (25, 35)              Technology            0.7   225413627904             6.8           296.04        None         None         None
+7          DDOG  2024-06-13    119.540001            BUY   49.093669    353.5606       (25, 35)              Technology            N/A    39027671040             N/A           147.34        None         None         None
+8           DIS  2024-06-13    100.089996       RISK BUY   40.038685  108.190216     (N/A, N/A)  Communication Services            0.9   181456289792             N/A           124.75        None         None         None
+9           MDB  2024-06-13    218.179993            BUY   34.058958         N/A       (25, 35)              Technology            N/A    16468700160             N/A           329.58        None         None         None
+10          OXY  2024-06-13     59.799999       RISK BUY   44.358455    17.17919        (5, 15)                  Energy           1.47    52701700096          -0.248            71.72        None         None         None
+11          PFE  2024-06-13     27.650000       RISK BUY   51.180248         N/A       (15, 25)              Healthcare           6.08   156199567360          -0.434            31.46        None         None         None
+12         SNOW  2024-06-13    125.900002            BUY   39.862283         N/A       (25, 35)              Technology            N/A    42164084736             N/A           209.97        None         None         None
+13         SOFI  2024-06-13      6.800000            BUY   49.328860         N/A     (N/A, N/A)      Financial Services            N/A     6893073920             N/A             8.61        None         None         None
+14         SMCI  2024-06-13    871.099976       RISK BUY   48.983142    47.43757       (25, 35)              Technology            N/A    49833340928           3.288          1023.42        None         None         None
+15         SBUX  2024-06-13     80.239998            BUY   41.294096   21.895317     (N/A, N/A)       Consumer Cyclical           2.84    90026999808          -0.139            89.49        None         None         None
+16          TRV  2024-06-13    207.070007       RISK BUY   43.396827   15.181277     (N/A, N/A)      Financial Services           2.03    46792425472           0.162           229.76        None         None         None
+17         TSLA  2024-06-13    182.470001       RISK BUY   52.095785   45.730175     (N/A, N/A)       Consumer Cyclical            N/A   570244857856          -0.534           181.22        None         None         None
+18          UPS  2024-06-13    134.889999            BUY   40.580317   19.351665       (15, 25)             Industrials           4.83   114405343232          -0.406           160.66        None         None         None
+19    603628.SS  2024-06-13     14.140000       RISK BUY   40.583741   28.750002       (25, 35)              Technology           0.57     3778439936          -0.783              NaN        None         None         None
+20    601808.SS  2024-06-13     16.910000       RISK BUY   56.395628   24.720587        (5, 15)                  Energy           1.24    61875761152           0.573            18.16        None         None         None
+21      BTC-USD  2024-06-13  66756.398438       RISK BUY   50.711988         N/A     (N/A, N/A)                     N/A            N/A  1319646003200             N/A              NaN        None         None         None
+22      ETH-USD  2024-06-13   3469.281250       RISK BUY   53.858779         N/A     (N/A, N/A)                     N/A            N/A   419143188480             N/A              NaN        None         None         None
+
+Warnings:
+{'GOOGL': ['rule_accelerating_growth'], 'LLY': ['rule_accelerating_growth'], 'NVO': ['rule_accelerating_growth'], 'ORCL': ['rule_largest_gain'], 'SHOP': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
