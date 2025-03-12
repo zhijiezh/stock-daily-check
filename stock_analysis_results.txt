@@ -2002,3 +2002,1152 @@ Stocks with Upcoming Earnings:
 
 ***************************************************************************************************
 
+Analysis Date: 2024-06-14
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date  Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE                Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AAL  2024-06-14    11.280000            BUY   39.098739  15.887324       (15, 25)             Industrials            N/A    7400694784             N/A            15.46        None         None         None
+1           ALK  2024-06-14    40.330002       RISK BUY   52.207354  21.338625       (15, 25)             Industrials            N/A    5117554688             N/A            56.40        None         None         None
+2           ALB  2024-06-14   103.510002            BUY   43.834650  37.503624     (N/A, N/A)         Basic Materials           1.48   12165220352             N/A           149.38        None         None         None
+3          ALTM  2024-06-14     3.460000            BUY   42.383293        N/A     (N/A, N/A)         Basic Materials            N/A    3717735424          -0.957             8.48        None         None         None
+4          BABA  2024-06-14    73.349998       RISK BUY   50.498168  16.670454     (N/A, N/A)       Consumer Cyclical           2.64  178889654272          -0.855           109.58        None         None         None
+5          BILI  2024-06-14    14.730000       RISK BUY   54.482253        N/A     (N/A, N/A)  Communication Services            N/A    6083416064             N/A            16.66        None         None         None
+6           COF  2024-06-14   133.699997       RISK BUY   45.425683  10.469851     (N/A, N/A)      Financial Services           1.78   51062968320           0.355           153.84        None         None         None
+7           DAL  2024-06-14    48.720001       RISK BUY   54.549451   6.246154       (15, 25)             Industrials            0.8   31439650816             N/A            61.70        None         None         None
+8           MDB  2024-06-14   227.000000            BUY   34.604711        N/A       (25, 35)              Technology            N/A   16650609664             N/A           329.58        None         None         None
+9           OXY  2024-06-14    59.840000       RISK BUY   44.758098  17.294798        (5, 15)                  Energy           1.47   53056356352          -0.248            71.72        None         None         None
+10         SAVE  2024-06-14     3.460000            BUY   44.100120        N/A       (15, 25)             Industrials            N/A     378873472             N/A             3.25        None         None         None
+11         SHOP  2024-06-14    67.660004            BUY   41.145232        N/A       (25, 35)              Technology            N/A   87173824512             N/A            75.49        None         None         None
+12         SNOW  2024-06-14   127.169998            BUY   38.260133        N/A       (25, 35)              Technology            N/A   42575880192             N/A           209.97        None         None         None
+13         SOFI  2024-06-14     6.460000            BUY   44.909501        N/A     (N/A, N/A)      Financial Services            N/A    6829641216             N/A             8.61        None         None         None
+14         SMCI  2024-06-14   844.539978       RISK BUY   48.683657  47.075806       (25, 35)              Technology            N/A   49453305856           3.288          1023.42        None         None         None
+15          TRV  2024-06-14   205.850006       RISK BUY   42.288764  15.293463     (N/A, N/A)      Financial Services           2.03   47138209792           0.162           229.76        None         None         None
+16         TSLA  2024-06-14   178.009995       RISK BUY   50.441512   45.52685     (N/A, N/A)       Consumer Cyclical            N/A  567709466624          -0.534           181.22        None         None         None
+17          UAL  2024-06-14    49.689999       RISK BUY   53.345354   6.067155       (15, 25)             Industrials            N/A   16338221056             N/A            71.28        None         None         None
+18          UPS  2024-06-14   135.649994            BUY   40.087155   19.63097       (15, 25)             Industrials           4.83  116056571904          -0.406           160.66        None         None         None
+19    600221.SS  2024-06-14     1.260000       RISK BUY   40.298500       63.0       (15, 25)             Industrials            N/A   54356402176           3.297              NaN        None         None         None
+20    300169.SZ  2024-06-14     5.040000            BUY   46.085672        N/A     (N/A, N/A)         Basic Materials            N/A    1642959360             N/A              NaN        None         None         None
+
+Warnings:
+{'LLY': ['rule_accelerating_growth'], 'SHOP': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2024-06-14
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date   Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE                Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AAL  2024-06-14     11.280000            BUY   39.098739  15.887324       (15, 25)             Industrials            N/A     7400694784             N/A            15.46        None         None         None
+1           ALB  2024-06-14    103.510002            BUY   43.834650  37.503624     (N/A, N/A)         Basic Materials           1.48    12165220352             N/A           149.38        None         None         None
+2          ALTM  2024-06-14      3.460000            BUY   42.383293        N/A     (N/A, N/A)         Basic Materials            N/A     3717735424          -0.957             8.48        None         None         None
+3          BABA  2024-06-14     73.349998       RISK BUY   50.498168  16.670454     (N/A, N/A)       Consumer Cyclical           2.64   178889654272          -0.855           109.58        None         None         None
+4          BILI  2024-06-14     14.730000       RISK BUY   54.482253        N/A     (N/A, N/A)  Communication Services            N/A     6083416064             N/A            16.66        None         None         None
+5           COF  2024-06-14    133.699997       RISK BUY   45.425683  10.469851     (N/A, N/A)      Financial Services           1.78    51062968320           0.355           153.84        None         None         None
+6           CRM  2024-06-14    231.940002            BUY   34.782432  41.640934       (25, 35)              Technology            0.7   224749862912             6.8           273.78        None         None         None
+7           DAL  2024-06-14     48.720001       RISK BUY   54.549451   6.427441       (15, 25)             Industrials            0.8    32375365632             N/A            61.70        None         None         None
+8           MDB  2024-06-14    227.000000            BUY   34.604711        N/A       (25, 35)              Technology            N/A    16650609664             N/A           329.58        None         None         None
+9           OXY  2024-06-14     59.840000       RISK BUY   44.758098  17.294798        (5, 15)                  Energy           1.47    53056356352          -0.248            71.72        None         None         None
+10         SAVE  2024-06-14      3.460000            BUY   44.100120        N/A       (15, 25)             Industrials            N/A      382160480             N/A             3.25        None         None         None
+11         SHOP  2024-06-14     67.660004            BUY   41.145232        N/A       (25, 35)              Technology            N/A    83347652608             N/A            75.49        None         None         None
+12         SNOW  2024-06-14    127.169998            BUY   38.260133        N/A       (25, 35)              Technology            N/A    42575880192             N/A           209.97        None         None         None
+13         SOFI  2024-06-14      6.460000            BUY   44.909501        N/A     (N/A, N/A)      Financial Services            N/A     6829641216             N/A             8.61        None         None         None
+14         SMCI  2024-06-14    844.539978       RISK BUY   48.683657  47.075806       (25, 35)              Technology            N/A    49453305856           3.288          1023.42        None         None         None
+15          TRV  2024-06-14    205.850006       RISK BUY   42.288764  15.293463     (N/A, N/A)      Financial Services           2.04    47417757696           0.162           229.76        None         None         None
+16         TSLA  2024-06-14    178.009995       RISK BUY   50.441512   45.52685     (N/A, N/A)       Consumer Cyclical            N/A   567709466624          -0.534           181.22        None         None         None
+17          UAL  2024-06-14     49.689999       RISK BUY   53.345354   6.354219       (15, 25)             Industrials            N/A    17122427904             N/A            71.28        None         None         None
+18    600221.SS  2024-06-14      1.260000       RISK BUY   40.298500       63.0       (15, 25)             Industrials            N/A    54356402176           3.297              NaN        None         None         None
+19    300169.SZ  2024-06-14      5.040000            BUY   46.085672        N/A     (N/A, N/A)         Basic Materials            N/A     1642959360             N/A              NaN        None         None         None
+20      BTC-USD  2024-06-13  66756.398438       RISK BUY   50.711988        N/A     (N/A, N/A)                     N/A            N/A  1302363242496             N/A              NaN        None         None         None
+21      ETH-USD  2024-06-13   3469.281250       RISK BUY   53.858779        N/A     (N/A, N/A)                     N/A            N/A   418864562176             N/A              NaN        None         None         None
+
+Warnings:
+{'LLY': ['rule_accelerating_growth'], 'SHOP': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2024-06-18
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date   Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE                Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AMD  2024-06-18    154.630005       RISK BUY   43.578690  220.90001       (25, 35)              Technology            N/A   249930022912             N/A           187.37        None         None         None
+1           ALB  2024-06-18     99.540001            BUY   43.801944  36.065216     (N/A, N/A)         Basic Materials           1.59    11698637824             N/A           149.38        None         None         None
+2          ALTM  2024-06-18      3.360000            BUY   43.396226        N/A     (N/A, N/A)         Basic Materials            N/A     3610286336          -0.957             8.48        None         None         None
+3          BNTX  2024-06-18     86.269997            BUY   47.053210     172.54       (15, 25)              Healthcare            N/A    20790206464             N/A           113.14        None         None         None
+4          DASH  2024-06-18    112.910004       RISK BUY   39.301728        N/A     (N/A, N/A)  Communication Services            N/A    46170480640             N/A           136.02        None         None         None
+5           OXY  2024-06-18     61.259998       RISK BUY   46.837745  17.705202        (5, 15)                  Energy           1.46    54315380736          -0.248            71.72        None         None         None
+6          SNOW  2024-06-18    127.599998            BUY   39.798768        N/A       (25, 35)              Technology            N/A    42719842304             N/A           209.97        None         None         None
+7          SOUN  2024-06-18      4.090000       RISK BUY   41.276596        N/A       (25, 35)              Technology            N/A     1346305280             N/A             7.43        None         None         None
+8            BA  2024-06-18    174.990005       RISK BUY   45.734857        N/A       (15, 25)             Industrials            N/A   107423571968             N/A           218.54        None         None         None
+9          UHAL  2024-06-18     62.619999       RISK BUY   46.277841  20.598684       (15, 25)             Industrials            N/A    11874003968             N/A            69.70        None         None         None
+10          UPS  2024-06-18    134.199997            BUY   38.591965   19.42113       (15, 25)             Industrials            4.8   114816008192          -0.406           160.66        None         None         None
+11          XOM  2024-06-18    109.379997       RISK BUY   46.640511  13.404411        (5, 15)                  Energy           3.51   490671013888          -0.262           132.10        None         None         None
+12    300169.SZ  2024-06-18      5.060000       RISK BUY   44.642856        N/A     (N/A, N/A)         Basic Materials            N/A     1649479040             N/A              NaN        None         None         None
+13      BTC-USD  2024-06-18  65152.179688       RISK BUY   50.983520        N/A     (N/A, N/A)                     N/A            N/A  1284415291392             N/A              NaN        None         None         None
+14      ETH-USD  2024-06-18   3475.308594       RISK BUY   55.094162        N/A     (N/A, N/A)                     N/A            N/A   424950267904             N/A              NaN        None         None         None
+
+Warnings:
+{'MSFT': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+NKE: Earnings on 2024-06-27 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-06-20
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date  Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE                Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AMD  2024-06-20   161.779999            BUY   45.807413  231.11429       (25, 35)              Technology            N/A  261486624768             N/A           174.42        None         None         None
+1           ALB  2024-06-20    93.790001            BUY   42.972718  33.981884     (N/A, N/A)         Basic Materials           1.61   11022857216             N/A           149.38        None         None         None
+2          ARKK  2024-06-20    43.369999       RISK BUY   41.585129        N/A     (N/A, N/A)                     N/A            N/A           N/A             N/A              NaN        None         None         None
+3           CRM  2024-06-20   241.800003            BUY   37.236830   43.48921       (25, 35)              Technology           0.69  234304208896             6.8           296.04        None         None         None
+4          DASH  2024-06-20   110.209999       RISK BUY   38.081664        N/A     (N/A, N/A)  Communication Services            N/A   45066407936             N/A           136.02        None         None         None
+5           OXY  2024-06-20    62.439999       RISK BUY   47.473357  18.046242        (5, 15)                  Energy           1.44   55361613824          -0.248            71.72        None         None         None
+6          SOUN  2024-06-20     4.050000       RISK BUY   42.137271        N/A       (25, 35)              Technology            N/A    1333138560             N/A             7.43        None         None         None
+7          INTC  2024-06-20    30.620001       RISK BUY   33.851915   31.56701       (25, 35)              Technology           1.63  130345361408             N/A            38.50        None         None         None
+8            BA  2024-06-20   176.300003       RISK BUY   45.314145        N/A       (15, 25)             Industrials            N/A  108227756032             N/A           203.26        None         None         None
+9           TRV  2024-06-20   211.970001       RISK BUY   44.776376  15.736451     (N/A, N/A)      Financial Services           2.01   48539643904           0.162           229.76        None         None         None
+10         UHAL  2024-06-20    62.119999       RISK BUY   45.917510   20.43421       (15, 25)             Industrials            N/A   11739189248             N/A            69.70        None         None         None
+11          XOM  2024-06-20   111.739998       RISK BUY   47.667146  13.693627        (5, 15)                  Energy           3.47  501257797632          -0.262           122.97        None         None         None
+12          DHI  2024-06-20   141.149994            BUY   43.761478    9.62824     (N/A, N/A)       Consumer Cyclical           0.86   46482386944           0.289           167.08        None         None         None
+13    600221.SS  2024-06-20     1.200000            BUY   35.211262  60.000004       (15, 25)             Industrials            N/A   51788161024           3.297              NaN        None         None         None
+14    300169.SZ  2024-06-20     4.980000       RISK BUY   44.653613        N/A     (N/A, N/A)         Basic Materials            N/A    1623400320             N/A              NaN        None         None         None
+15    603628.SS  2024-06-20    13.380000       RISK BUY   39.621322  28.468086       (25, 35)              Technology           0.93    3663443968          -0.783              NaN        None         None         None
+16    601808.SS  2024-06-20    16.969999       RISK BUY   52.770844  24.955881        (5, 15)                  Energy           1.24   63188471808           0.573            18.16        None         None         None
+17      ETH-USD  2024-06-20  3515.463623       RISK BUY   54.505445        N/A     (N/A, N/A)                     N/A            N/A  429854097408             N/A              NaN        None         None         None
+
+Warnings:
+{'LLY': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+NKE: Earnings on 2024-06-27 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-06-22
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date  Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE                Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AMD  2024-06-21   161.229996            BUY   45.855335  233.66666       (25, 35)              Technology            N/A  260597661696             N/A           187.37        None         None         None
+1           ALK  2024-06-21    41.180000       RISK BUY   51.864506   21.78836       (15, 25)             Industrials            N/A    5225412608             N/A            56.40        None         None         None
+2           ALB  2024-06-21    94.660004            BUY   43.043216  34.297104     (N/A, N/A)         Basic Materials           1.69   11125106688             N/A           149.38        None         None         None
+3          ALTM  2024-06-21     3.250000            BUY   44.980443        N/A     (N/A, N/A)         Basic Materials            N/A    3492092416          -0.957             8.48        None         None         None
+4          BNTX  2024-06-21    84.639999            BUY   46.224601  165.96078       (15, 25)              Healthcare            N/A   20397393920             N/A           114.19        None         None         None
+5             C  2024-06-21    59.990002       RISK BUY   48.611315  17.489796     (N/A, N/A)      Financial Services           3.53  114427330560          -0.281            67.20        None         None         None
+6          CVNA  2024-06-21   112.989998       RISK BUY   56.458939   45.37751     (N/A, N/A)       Consumer Cyclical            N/A   13213841408             N/A           105.56        None         None         None
+7           COF  2024-06-21   136.770004       RISK BUY   47.736397  10.710259     (N/A, N/A)      Financial Services           1.75   52235472896           0.355           153.84        None         None         None
+8           CRM  2024-06-21   245.059998            BUY   38.073555   44.07554       (25, 35)              Technology           0.65  237463142400             6.8           296.04        None         None         None
+9          DASH  2024-06-21   113.879997       RISK BUY   38.732273        N/A     (N/A, N/A)  Communication Services            N/A   46567124992             N/A           136.02        None         None         None
+10          DAL  2024-06-21    49.380001       RISK BUY   54.628389   6.330769       (15, 25)             Industrials           1.22   31865556992             N/A            61.70        None         None         None
+11         DDOG  2024-06-21   117.570000            BUY   47.678826   345.7941       (25, 35)              Technology            N/A   39327047680             N/A           145.93        None         None         None
+12          DIS  2024-06-21   102.269997       RISK BUY   36.968715  111.16304     (N/A, N/A)  Communication Services           0.88  186442301440             N/A           124.33        None         None         None
+13         DUOL  2024-06-21   206.520004            BUY   47.554207  212.90721       (25, 35)              Technology            N/A    8905576448             N/A           250.09        None         None         None
+14          JPM  2024-06-21   196.300003       RISK BUY   50.745879  11.846711     (N/A, N/A)      Financial Services           2.34  563708821504           0.083           208.02        None         None         None
+15         LYFT  2024-06-21    13.450000       RISK BUY   37.016811        N/A       (25, 35)              Technology            N/A    5426859520             N/A            19.26        None         None         None
+16          MDB  2024-06-21   227.550003            BUY   35.535847        N/A       (25, 35)              Technology            N/A   16690953216             N/A           329.58        None         None         None
+17          OXY  2024-06-21    60.919998       RISK BUY   47.098723  17.606936        (5, 15)                  Energy           1.44   54013923328          -0.248            71.72        None         None         None
+18          PFE  2024-06-21    27.740000       RISK BUY   51.470562        N/A       (15, 25)              Healthcare           6.06  157191208960          -0.434            31.46        None         None         None
+19         SNOW  2024-06-21   127.800003            BUY   40.264177        N/A       (25, 35)              Technology            N/A   42786803712             N/A           209.97        None         None         None
+20         SBUX  2024-06-21    79.910004            BUY   42.130078  22.013775     (N/A, N/A)       Consumer Cyclical           2.85   90514063360          -0.139            89.49        None         None         None
+21         SOUN  2024-06-21     4.000000       RISK BUY   42.137271        N/A       (25, 35)              Technology            N/A    1316679936             N/A             7.43        None         None         None
+22         INTC  2024-06-21    31.090000            BUY   34.437462  32.051544       (25, 35)              Technology           1.61  132346085376             N/A            38.50        None         None         None
+23           BA  2024-06-21   176.559998            BUY   46.528744        N/A       (15, 25)             Industrials            N/A  108387360768             N/A           218.35        None         None         None
+24          TRV  2024-06-21   209.800003       RISK BUY   44.047738  15.575353     (N/A, N/A)      Financial Services            2.0   48042729472           0.162           229.76        None         None         None
+25          UAL  2024-06-21    48.180000       RISK BUY   52.491875   5.882784       (15, 25)             Industrials            N/A   15841729536             N/A            71.28        None         None         None
+26         UHAL  2024-06-21    63.040001       RISK BUY   47.603099  20.736843       (15, 25)             Industrials            N/A   11898422272             N/A            69.70        None         None         None
+27          UPS  2024-06-21   136.600006            BUY   46.753212  19.768454       (15, 25)             Industrials           4.77  116869357568          -0.406           160.66        None         None         None
+28          WFC  2024-06-21    58.099998       RISK BUY   52.774621  12.104166     (N/A, N/A)      Financial Services           2.41  202555195392          -0.024            63.28        None         None         None
+29          XOM  2024-06-21   110.760002       RISK BUY   48.315372   13.57353        (5, 15)                  Energy           3.43  496861609984          -0.262           132.10        None         None         None
+30          DHI  2024-06-21   142.389999            BUY   44.385892   9.706203     (N/A, N/A)       Consumer Cyclical           0.84   46890733568           0.289           167.08        None         None         None
+31    600221.SS  2024-06-21     1.220000            BUY   37.499994  61.000004       (15, 25)             Industrials            N/A   52639830016           3.297              NaN        None         None         None
+32    300169.SZ  2024-06-21     5.010000       RISK BUY   44.063926        N/A     (N/A, N/A)         Basic Materials            N/A    1633179904             N/A              NaN        None         None         None
+33    603628.SS  2024-06-21    13.940000            BUY   41.338447  29.041666       (25, 35)              Technology           0.89    3816771840          -0.783              NaN        None         None         None
+
+Warnings:
+{'WFC': ['rule_falling_below_ma'], 'NFLX': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+NKE: Earnings on 2024-06-27 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-06-24
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date  Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE            Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AAL  2024-06-24    11.160000       RISK BUY   36.013509   15.71831       (15, 25)         Industrials            N/A    7321964032             N/A            15.46        None         None         None
+1           ALB  2024-06-24    96.400002            BUY   40.168709  34.927536     (N/A, N/A)     Basic Materials           1.69   11329602560             N/A           149.38        None         None         None
+2          ALTM  2024-06-24     3.320000            BUY   42.428377        N/A     (N/A, N/A)     Basic Materials            N/A    3567306752          -0.957             8.36        None         None         None
+3          ARKK  2024-06-24    43.240002       RISK BUY   41.562273        N/A     (N/A, N/A)                 N/A            N/A           N/A             N/A              NaN        None         None         None
+4          BABA  2024-06-24    74.790001       RISK BUY   52.034590  17.352669     (N/A, N/A)   Consumer Cyclical           2.71  181169061888          -0.855           107.51        None         None         None
+5          BNTX  2024-06-24    86.610001            BUY   46.624204  169.82353       (15, 25)          Healthcare            N/A   20872144896             N/A           113.60        None         None         None
+6          COIN  2024-06-24   212.309998       RISK BUY   45.898700  41.547943     (N/A, N/A)  Financial Services            N/A   52136751104             N/A           266.72        None         None         None
+7           DAL  2024-06-24    49.400002       RISK BUY   52.910054   6.333334       (15, 25)         Industrials           1.22   31878463488             N/A            61.70        None         None         None
+8           KRE  2024-06-24    47.580002            BUY   46.031228   8.462559     (N/A, N/A)                 N/A            N/A           N/A             N/A              NaN        None         None         None
+9           MDB  2024-06-24   233.919998            BUY   35.783888        N/A       (25, 35)          Technology            N/A   17158196224             N/A           329.58        None         None         None
+10         SAVE  2024-06-24     3.590000            BUY   44.018582        N/A       (15, 25)         Industrials            N/A     393108576             N/A             3.25        None         None         None
+11         SNOW  2024-06-24   124.800003            BUY   38.718152        N/A       (25, 35)          Technology            N/A   41782419456             N/A           209.29        None         None         None
+12           BA  2024-06-24   179.100006            BUY   45.872680        N/A       (15, 25)         Industrials            N/A  109946634240             N/A           203.96        None         None         None
+13         UHAL  2024-06-24    63.750000       RISK BUY   47.305268  20.970394       (15, 25)         Industrials            N/A   12032430080             N/A            69.70        None         None         None
+14          UPS  2024-06-24   138.600006            BUY   44.867731  20.057888       (15, 25)         Industrials           4.77  118580477952          -0.406           160.66        None         None         None
+15    688091.SS  2024-06-24    23.940001       RISK BUY   32.078099       38.0       (15, 25)          Healthcare           1.24    4925894656          -0.479              NaN        None         None         None
+16    600221.SS  2024-06-24     1.170000            BUY   35.999989       58.5       (15, 25)         Industrials            N/A   50502934528           3.297              NaN        None         None         None
+17    603628.SS  2024-06-24    12.950000       RISK BUY   41.492076  26.979166       (25, 35)          Technology           0.96    3545709824          -0.783              NaN        None         None         None
+
+Warnings:
+{'WFC': ['rule_falling_below_ma'], 'NFLX': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+NKE: Earnings on 2024-06-27 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-06-25
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date   Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE            Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AAL  2024-06-25     11.130000       RISK BUY   35.723946  15.676057       (15, 25)         Industrials            N/A     7302281728             N/A            15.46        None         None         None
+1           ALB  2024-06-25     92.769997            BUY   38.305479  33.612316     (N/A, N/A)     Basic Materials           1.66    10902979584             N/A           149.09        None         None         None
+2          ALTM  2024-06-25      3.190000            BUY   42.370573        N/A     (N/A, N/A)     Basic Materials            N/A     3427623168          -0.957             8.36        None         None         None
+3          BABA  2024-06-25     73.790001       RISK BUY   51.960597   17.12065     (N/A, N/A)   Consumer Cyclical           2.67   178438242304          -0.855           107.53        None         None         None
+4           DAL  2024-06-25     48.810001       RISK BUY   51.431845   6.257692       (15, 25)         Industrials           1.21    31497730048             N/A            61.70        None         None         None
+5          LYFT  2024-06-25     13.470000       RISK BUY   37.626266        N/A       (25, 35)          Technology            N/A     5434929664             N/A            18.98        None         None         None
+6          SNOW  2024-06-25    124.209999            BUY   37.955029        N/A       (25, 35)          Technology            N/A    41584885760             N/A           209.29        None         None         None
+7          SBUX  2024-06-25     79.279999            BUY   40.707694   21.84022     (N/A, N/A)   Consumer Cyclical           2.86    89800458240          -0.139            83.73        None         None         None
+8            BA  2024-06-25    175.100006            BUY   44.361088        N/A       (15, 25)         Industrials            N/A   107491098624             N/A           204.30        None         None         None
+9           UPS  2024-06-25    134.360001            BUY   42.805401  19.416185       (15, 25)         Industrials            4.7   114952904704          -0.406           160.20        None         None         None
+10          WFC  2024-06-25     57.200001       RISK BUY   49.347994  11.916666     (N/A, N/A)  Financial Services           2.37   199417511936          -0.024            63.28        None         None         None
+11    688091.SS  2024-06-25     23.540001       RISK BUY   33.060814  37.967743       (15, 25)          Healthcare           1.29     4925886464          -0.479              NaN        None         None         None
+12    600221.SS  2024-06-25      1.170000            BUY   35.999989       58.5       (15, 25)         Industrials            N/A    50502934528           3.297              NaN        None         None         None
+13    300169.SZ  2024-06-25      4.700000       RISK BUY   44.785275        N/A     (N/A, N/A)     Basic Materials            N/A     1649479040             N/A              NaN        None         None         None
+14    601808.SS  2024-06-25     17.150000       RISK BUY   52.762293  25.220587        (5, 15)              Energy           1.22    62040469504           0.573            18.16        None         None         None
+15      BTC-USD  2024-06-25  62116.320312       RISK BUY   48.775615        N/A     (N/A, N/A)                 N/A            N/A  1224731656192             N/A              NaN        None         None         None
+
+Warnings:
+{}
+
+Stocks with Upcoming Earnings:
+NKE: Earnings on 2024-06-27 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-06-26
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date   Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE                Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AAL  2024-06-25     11.130000       RISK BUY   35.723946  15.676057       (15, 25)             Industrials            N/A     7302281728             N/A            15.46        None         None         None
+1           ALB  2024-06-25     92.769997            BUY   38.305479  33.612316     (N/A, N/A)         Basic Materials           1.72    10902979584             N/A           149.09        None         None         None
+2          ALTM  2024-06-25      3.190000            BUY   42.370573        N/A     (N/A, N/A)         Basic Materials            N/A     3427623168          -0.957             8.36        None         None         None
+3          BABA  2024-06-25     73.790001       RISK BUY   51.960597   17.12065     (N/A, N/A)       Consumer Cyclical           2.71   179998900224          -0.855           107.53        None         None         None
+4           DAL  2024-06-25     48.810001       RISK BUY   51.431845   6.257692       (15, 25)             Industrials           1.23    31497730048             N/A            61.70        None         None         None
+5           DIS  2024-06-25    102.199997       RISK BUY   34.690158  111.08695     (N/A, N/A)  Communication Services           0.88   186314686464             N/A           124.33        None         None         None
+6          LYFT  2024-06-25     13.470000       RISK BUY   37.626266        N/A       (25, 35)              Technology            N/A     5434929664             N/A            18.98        None         None         None
+7          SNOW  2024-06-25    124.209999            BUY   37.955029        N/A       (25, 35)              Technology            N/A    41584885760             N/A           209.29        None         None         None
+8          SBUX  2024-06-25     79.279999            BUY   40.707694   21.84022     (N/A, N/A)       Consumer Cyclical           2.88    89800458240          -0.139            83.73        None         None         None
+9            BA  2024-06-25    175.100006            BUY   44.361088        N/A       (15, 25)             Industrials            N/A   107491098624             N/A           204.30        None         None         None
+10          UPS  2024-06-25    134.360001            BUY   42.805401  19.444284       (15, 25)             Industrials           4.85   114952904704          -0.406           160.20        None         None         None
+11          WFC  2024-06-25     57.200001       RISK BUY   49.347994  11.916666     (N/A, N/A)      Financial Services           2.45   199417511936          -0.024            63.28        None         None         None
+12    600221.SS  2024-06-26      1.080000            BUY   32.142848  54.000004       (15, 25)             Industrials            N/A    46613016576           3.297              NaN        None         None         None
+13      BTC-USD  2024-06-26  61881.410156       RISK BUY   48.595200        N/A     (N/A, N/A)                     N/A            N/A  1220102717440             N/A              NaN        None         None         None
+
+Warnings:
+{}
+
+Stocks with Upcoming Earnings:
+NKE: Earnings on 2024-06-27 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-06-26
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Analysis Date: 2024-06-26
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date  Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE            Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AAL  2024-06-26    11.120000            BUY   35.437879  15.661972       (15, 25)         Industrials            N/A    7295720448             N/A            15.15        None         None         None
+1           ALB  2024-06-26   100.279999            BUY   41.615480  36.333332     (N/A, N/A)     Basic Materials           1.72   11785607168             N/A           147.96        None         None         None
+2          ALTM  2024-06-26     3.580000            BUY   45.278137        N/A     (N/A, N/A)     Basic Materials            N/A    3846674176          -0.957             8.36        None         None         None
+3           COF  2024-06-26   136.770004       RISK BUY   45.293321  10.710259     (N/A, N/A)  Financial Services           1.78   52235472896           0.355           153.54        None         None         None
+4           DAL  2024-06-26    48.180000       RISK BUY   50.071209   6.176923       (15, 25)         Industrials           1.23   31091181568             N/A            61.98        None         None         None
+5           MDB  2024-06-26   240.520004            BUY   37.375745        N/A       (25, 35)          Technology            N/A   17642311680             N/A           331.53        None         None         None
+6           PDD  2024-06-26   138.229996       RISK BUY   56.893929  18.381649     (N/A, N/A)   Consumer Cyclical            N/A  191969673216            2.41           202.71        None         None         None
+7          SNOW  2024-06-26   129.130005            BUY   40.132036        N/A       (25, 35)          Technology            N/A   43232079872             N/A           209.55        None         None         None
+8          UHAL  2024-06-26    62.180000       RISK BUY   43.786990  20.453947       (15, 25)         Industrials            N/A   11685362688             N/A            69.70        None         None         None
+9           UPS  2024-06-26   138.149994            BUY   45.670192  19.992764       (15, 25)         Industrials           4.85  118195470336          -0.406           160.20        None         None         None
+10    688091.SS  2024-06-26    24.290001       RISK BUY   35.471912  38.555557       (15, 25)          Healthcare           1.28    4997910528          -0.479              NaN        None         None         None
+11    600221.SS  2024-06-26     1.110000            BUY   33.333324  55.500004       (15, 25)         Industrials            N/A   47892058112           3.297              NaN        None         None         None
+
+Warnings:
+{}
+
+Stocks with Upcoming Earnings:
+NKE: Earnings on 2024-06-27 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-07-01
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date  Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE            Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AMD  2024-07-01   157.690002       RISK BUY   47.817694  225.27144       (25, 35)          Technology            N/A  254875926528             N/A           187.37        None         None         None
+1          ARKK  2024-07-01    44.450001       RISK BUY   46.377185        N/A     (N/A, N/A)                 N/A            N/A           N/A             N/A              NaN        None         None         None
+2          BNTX  2024-07-01    78.830002            BUY   44.285568     157.66       (15, 25)          Healthcare            N/A   18997241856             N/A           114.47        None         None         None
+3           MDB  2024-07-01   263.510010            BUY   41.289385        N/A       (25, 35)          Technology            N/A   19328645120             N/A           331.53        None         None         None
+4           NKE  2024-07-01    76.830002            BUY   41.583136  20.597857     (N/A, N/A)   Consumer Cyclical           1.96  115964133376           0.504            96.36        None         None         None
+5          SNOW  2024-07-01   142.770004            BUY   47.379368        N/A       (25, 35)          Technology            N/A   47798685696             N/A           209.55        None         None         None
+6          SOFI  2024-07-01     6.430000       RISK BUY   44.581279        N/A     (N/A, N/A)  Financial Services            N/A    6797924352             N/A             8.61        None         None         None
+7            BA  2024-07-01   186.699997       RISK BUY   51.055533        N/A       (15, 25)         Industrials            N/A  114612150272             N/A           218.35        None         None         None
+8           TMF  2024-07-01    46.009998            BUY   46.165200        N/A     (N/A, N/A)                 N/A            N/A           N/A             N/A              NaN        None         None         None
+9          UHAL  2024-07-01    62.009998            BUY   45.086709  20.398026       (15, 25)         Industrials            N/A   11855629312             N/A            69.70        None         None         None
+10          DHI  2024-07-01   137.020004            BUY   43.282662   9.346521     (N/A, N/A)   Consumer Cyclical           0.85   45122330624           0.289           167.08        None         None         None
+11    688091.SS  2024-07-01    22.860001       RISK BUY   35.600606  36.285717       (15, 25)          Healthcare           1.36    4703673856          -0.479              NaN        None         None         None
+12    600221.SS  2024-07-01     1.120000            BUY   37.113396       56.0       (15, 25)         Industrials            N/A   48395874304           3.297              NaN        None         None         None
+13    603628.SS  2024-07-01    12.660000       RISK BUY   42.707037   26.93617       (25, 35)          Technology           0.98    3466307840          -0.783              NaN        None         None         None
+
+Warnings:
+{'NKE': ['rule_falling_below_ma'], '601288.SS': ['rule_accelerating_growth'], '600221.SS': ['rule_falling_below_ma']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2024-07-05
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date   Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE            Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AAL  2024-07-05     11.040000       RISK BUY   39.261991  15.549296       (15, 25)         Industrials            N/A     7243233280             N/A            14.81        None         None         None
+1           ALK  2024-07-05     38.330002       RISK BUY   43.268126  20.280424       (15, 25)         Industrials            N/A     4863770624             N/A            56.07        None         None         None
+2          BABA  2024-07-05     74.519997       RISK BUY   51.952790   17.33023     (N/A, N/A)   Consumer Cyclical           2.65   177208541184          -0.855           107.58        None         None         None
+3          COIN  2024-07-05    223.679993       RISK BUY   48.130832   43.77299     (N/A, N/A)  Financial Services            N/A    54928871424             N/A           265.85        None         None         None
+4          COST  2024-07-05    885.669983           SELL   71.879033   54.90825     (N/A, N/A)  Consumer Defensive           0.54   392648523776            0.29           847.09        None         None         None
+5           DAL  2024-07-05     46.020000       RISK BUY   48.359079        5.9       (15, 25)         Industrials           1.27    29697306624             N/A            61.87        None         None         None
+6           KRE  2024-07-05     47.939999            BUY   48.464800   8.526587     (N/A, N/A)                 N/A            N/A            N/A             N/A              NaN        None         None         None
+7           NKE  2024-07-05     75.430000            BUY   39.139475   20.22252     (N/A, N/A)   Consumer Cyclical           1.97   113851023360           0.504            86.36        None         None         None
+8          SAVE  2024-07-05      3.310000            BUY   40.171990        N/A       (15, 25)         Industrials            N/A      362448288             N/A             3.25        None         None         None
+9          SBUX  2024-07-05     76.050003       RISK BUY   41.267982  20.950413     (N/A, N/A)   Consumer Cyclical           2.99    86141837312          -0.139            82.91        None         None         None
+10         SOUN  2024-07-05      4.190000       RISK BUY   46.839081        N/A       (25, 35)          Technology            N/A     1379222272             N/A             7.43        None         None         None
+11          TMF  2024-07-05     49.919998            BUY   49.690696        N/A     (N/A, N/A)                 N/A            N/A            N/A             N/A              NaN        None         None         None
+12          UAL  2024-07-05     47.000000       RISK BUY   53.361028   5.738706       (15, 25)         Industrials            N/A    15453741056             N/A            70.78        None         None         None
+13         UHAL  2024-07-05     62.220001            BUY   43.708615  20.467106       (15, 25)         Industrials            N/A    11771402240             N/A            69.70        None         None         None
+14    300169.SZ  2024-07-05      4.660000       RISK BUY   43.460599        N/A     (N/A, N/A)     Basic Materials            N/A     1519085440             N/A              NaN        None         None         None
+15      BTC-USD  2024-07-04  56977.703125       RISK BUY   44.604447        N/A     (N/A, N/A)                 N/A            N/A  1113384026112             N/A              NaN        None         None         None
+16      ETH-USD  2024-07-04   3054.521973       RISK BUY   49.001582        N/A     (N/A, N/A)                 N/A            N/A   358599196672             N/A              NaN        None         None         None
+
+Warnings:
+{'DDOG': ['rule_accelerating_growth'], 'TSLA': ['rule_price_increase', 'rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+C: Earnings on 2024-07-12 00:00:00
+JPM: Earnings on 2024-07-12 00:00:00
+WFC: Earnings on 2024-07-12 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-07-06
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date   Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE            Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AAL  2024-07-05     11.040000       RISK BUY   39.261991  15.549296       (15, 25)         Industrials            N/A     7243233280             N/A            14.81        None         None         None
+1           ALK  2024-07-05     38.330002       RISK BUY   43.268126  20.280424       (15, 25)         Industrials            N/A     4863770624             N/A            56.07        None         None         None
+2          BABA  2024-07-05     74.519997       RISK BUY   51.952790   17.33023     (N/A, N/A)   Consumer Cyclical           2.68   178173575168          -0.855           107.58        None         None         None
+3          COIN  2024-07-05    223.679993       RISK BUY   48.130832   43.85882     (N/A, N/A)  Financial Services            N/A    54928871424             N/A           265.85        None         None         None
+4          COST  2024-07-05    885.669983           SELL   71.879033  54.942303     (N/A, N/A)  Consumer Defensive           0.52   392648523776            0.29           847.09        None         None         None
+5           DAL  2024-07-05     46.020000       RISK BUY   48.359079        5.9       (15, 25)         Industrials            1.3    29697306624             N/A            61.87        None         None         None
+6           KRE  2024-07-05     47.939999            BUY   48.464800   8.526587     (N/A, N/A)                 N/A            N/A            N/A             N/A              NaN        None         None         None
+7           NKE  2024-07-05     75.430000            BUY   39.139475   20.22252     (N/A, N/A)   Consumer Cyclical           1.96   113851023360           0.504            93.21        None         None         None
+8          SAVE  2024-07-05      3.310000            BUY   40.171990        N/A       (15, 25)         Industrials            N/A      362448288             N/A             3.25        None         None         None
+9          SBUX  2024-07-05     76.050003       RISK BUY   41.267982  20.950413     (N/A, N/A)   Consumer Cyclical            3.0    86141837312          -0.139            89.49        None         None         None
+10         SOUN  2024-07-05      4.190000       RISK BUY   46.839081        N/A       (25, 35)          Technology            N/A     1379222272             N/A             7.43        None         None         None
+11          TMF  2024-07-05     49.919998            BUY   49.690696        N/A     (N/A, N/A)                 N/A            N/A            N/A             N/A              NaN        None         None         None
+12          UAL  2024-07-05     47.000000       RISK BUY   53.361028   5.738706       (15, 25)         Industrials            N/A    15453741056             N/A            70.78        None         None         None
+13         UHAL  2024-07-05     62.220001            BUY   43.708615  20.467106       (15, 25)         Industrials            N/A    11712915456             N/A            69.70        None         None         None
+14    300169.SZ  2024-07-05      4.660000       RISK BUY   45.012164        N/A     (N/A, N/A)     Basic Materials            N/A     1519085440             N/A              NaN        None         None         None
+15      BTC-USD  2024-07-05  56662.375000       RISK BUY   44.985632        N/A     (N/A, N/A)                 N/A            N/A  1146264748032             N/A              NaN        None         None         None
+16      ETH-USD  2024-07-05   2981.598633       RISK BUY   49.020477        N/A     (N/A, N/A)                 N/A            N/A   367843606528             N/A              NaN        None         None         None
+
+Warnings:
+{'AAPL': ['rule_accelerating_growth'], 'ANET': ['rule_accelerating_growth'], 'DDOG': ['rule_accelerating_growth'], 'META': ['rule_accelerating_growth'], 'TSLA': ['rule_price_increase', 'rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+C: Earnings on 2024-07-12 00:00:00
+JPM: Earnings on 2024-07-12 00:00:00
+WFC: Earnings on 2024-07-12 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-07-12
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date   Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE            Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0          ALTM  2024-07-12      3.680000       RISK BUY   49.518570        8.0     (N/A, N/A)     Basic Materials            N/A     3956699392          -0.957             7.51        None         None         None
+1          BNTX  2024-07-12     84.949997            BUY   49.263850  166.56862       (15, 25)          Healthcare            N/A    20472098816             N/A           114.32        None         None         None
+2           DAL  2024-07-12     43.619999       RISK BUY   46.208036    6.25825       (15, 25)         Industrials           1.33    28148553728          -0.292            61.66        None         None         None
+3          SNOW  2024-07-12    135.750000            BUY   45.210349        N/A       (25, 35)          Technology            N/A    46261972992             N/A           208.74        None         None         None
+4          SOFI  2024-07-12      6.970000            BUY   48.448043        N/A     (N/A, N/A)  Financial Services            N/A     7368822784             N/A             8.43        None         None         None
+5          INTC  2024-07-12     34.490002            BUY   47.235557    35.5567       (25, 35)          Technology           1.49   146819448832             N/A            38.41        None         None         None
+6           TRV  2024-07-12    211.600006       RISK BUY   45.725999  15.720655     (N/A, N/A)  Financial Services           2.01    48454918144           0.162           226.11        None         None         None
+7           UAL  2024-07-12     44.720001       RISK BUY   53.108109   5.460318       (15, 25)         Industrials            N/A    14704070656             N/A            71.34        None         None         None
+8          UHAL  2024-07-12     64.580002       RISK BUY   52.241633  20.632587       (15, 25)         Industrials            N/A    11862118400             N/A            69.70        None         None         None
+9     688091.SS  2024-07-12     22.379999            BUY   36.899211  35.523808       (15, 25)          Healthcare           1.39     4604908544          -0.479              NaN        None         None         None
+10    603628.SS  2024-07-12     12.460000            BUY   40.447125   26.51064       (25, 35)          Technology            1.0     3411547904          -0.783              NaN        None         None         None
+11      BTC-USD  2024-07-11  57344.914062       RISK BUY   46.842539        N/A     (N/A, N/A)                 N/A            N/A  1140763656192             N/A              NaN        None         None         None
+
+Warnings:
+{'ORCL': ['rule_accelerating_growth'], 'SOUN': ['rule_price_increase'], 'TSLA': ['rule_accelerating_growth'], 'DHI': ['rule_largest_gain']}
+
+Stocks with Upcoming Earnings:
+C: Earnings on 2024-07-12 00:00:00
+JPM: Earnings on 2024-07-12 00:00:00
+WFC: Earnings on 2024-07-12 00:00:00
+BAC: Earnings on 2024-07-16 00:00:00
+ASML: Earnings on 2024-07-17 00:00:00
+TSLA: Earnings on 2024-07-17 00:00:00
+ISRG: Earnings on 2024-07-18 00:00:00
+DHI: Earnings on 2024-07-18 00:00:00
+NFLX: Earnings on 2024-07-18 00:00:00
+TRV: Earnings on 2024-07-19 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-07-16
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date   Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE                Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AAL  2024-07-16     11.190000            BUY   38.634529  15.760563       (15, 25)             Industrials            N/A     7341646848             N/A            13.75        None         None         None
+1          ABNB  2024-07-16    151.259995       RISK BUY   45.991289  20.276138     (N/A, N/A)       Consumer Cyclical            N/A    96026501120           1.301           152.52        None         None         None
+2          ALTM  2024-07-16      3.710000       RISK BUY   49.394348   8.431818     (N/A, N/A)         Basic Materials            N/A     3988954880          -0.957             7.50        None         None         None
+3          COIN  2024-07-16    251.490005       RISK BUY   53.424630  49.215263     (N/A, N/A)      Financial Services            N/A    61758148608             N/A           263.42        None         None         None
+4          DASH  2024-07-16    108.739998            BUY   39.880612        N/A     (N/A, N/A)  Communication Services            N/A    44465307648             N/A           134.84        None         None         None
+5           DIS  2024-07-16     98.470001       RISK BUY   38.036476  107.03261     (N/A, N/A)  Communication Services           0.93   179514753024             N/A           124.17        None         None         None
+6          DUOL  2024-07-16    187.300003       RISK BUY   47.254345  191.12245       (25, 35)              Technology            N/A     8076769280             N/A           250.34        None         None         None
+7           NKE  2024-07-16     72.809998            BUY   33.626785  19.520107     (N/A, N/A)       Consumer Cyclical           2.08   107632107520           0.504            92.45        None         None         None
+8          SAVE  2024-07-16      3.160000       RISK BUY   44.065484        N/A       (15, 25)             Industrials            N/A      346023168             N/A             2.96        None         None         None
+9          SBUX  2024-07-16     75.510002            BUY   41.676609  20.801653     (N/A, N/A)       Consumer Cyclical           3.13    85530181632          -0.139            88.88        None         None         None
+10          UAL  2024-07-16     47.070000       RISK BUY   45.169890   5.747253       (15, 25)             Industrials            N/A    15476757504             N/A            71.11        None         None         None
+11      BTC-USD  2024-07-16  64781.773438            BUY   48.175796        N/A     (N/A, N/A)                     N/A            N/A  1277923295232             N/A              NaN        None         None         None
+12      ETH-USD  2024-07-16   3434.207031       RISK BUY   54.042780        N/A     (N/A, N/A)                     N/A            N/A   412858941440             N/A              NaN        None         None         None
+
+Warnings:
+{'AAPL': ['rule_accelerating_growth'], 'NEE': ['rule_accelerating_growth'], 'SOUN': ['rule_price_increase'], 'TSLA': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+BAC: Earnings on 2024-07-16 00:00:00
+ASML: Earnings on 2024-07-17 00:00:00
+TSLA: Earnings on 2024-07-17 00:00:00
+ISRG: Earnings on 2024-07-18 00:00:00
+DHI: Earnings on 2024-07-18 00:00:00
+NFLX: Earnings on 2024-07-18 00:00:00
+TRV: Earnings on 2024-07-19 00:00:00
+CDNS: Earnings on 2024-07-22 00:00:00
+COF: Earnings on 2024-07-23 00:00:00
+GOOGL: Earnings on 2024-07-23 00:00:00
+KO: Earnings on 2024-07-23 00:00:00
+UPS: Earnings on 2024-07-23 00:00:00
+NEE: Earnings on 2024-07-24 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-07-19
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date   Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE                Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0          BILI  2024-07-19     15.040000       RISK BUY   55.615310        N/A     (N/A, N/A)  Communication Services            N/A     6588046336             N/A            17.62        None         None         None
+1          CDNS  2024-07-19    279.950012       RISK BUY   49.601831     73.094       (25, 35)              Technology            N/A    76264824832           0.022           330.20        None         None         None
+2          DASH  2024-07-19    106.099998            BUY   39.862273        N/A     (N/A, N/A)  Communication Services            N/A    41005953024             N/A           134.96        None         None         None
+3          MSFT  2024-07-19    437.109985       RISK BUY   56.313417  38.175545       (25, 35)              Technology           0.68  3272965881856             0.2           493.54        None         None         None
+4          SMCI  2024-07-19    796.780029       RISK BUY   51.024349  44.364147       (25, 35)              Technology            N/A    46656651264           3.288          1026.50        None         None         None
+5          SBUX  2024-07-19     79.269997            BUY   44.413650   20.43041     (N/A, N/A)       Consumer Cyclical           3.07    89789128704          -0.139            88.21        None         None         None
+6          INTC  2024-07-19     32.980000            BUY   48.034334  35.847824       (25, 35)              Technology           1.43   148437041152             N/A            38.41        None         None         None
+7          NFLX  2024-07-19    633.340027       RISK BUY   56.338800  40.161064     (N/A, N/A)  Communication Services            N/A   277086896128           0.833           670.86        None         None         None
+8     688091.SS  2024-07-19     22.620001            BUY   37.893267  35.904762       (15, 25)              Healthcare           1.37     4654291456          -0.479              NaN        None         None         None
+9     300169.SZ  2024-07-19      4.560000       RISK BUY   50.320808        N/A     (N/A, N/A)         Basic Materials            N/A     1486487040             N/A              NaN        None         None         None
+10    603628.SS  2024-07-19     13.370000            BUY   46.580294  28.446808       (25, 35)              Technology           0.93     3660706048          -0.783              NaN        None         None         None
+11    601808.SS  2024-07-19     15.580000       RISK BUY   40.631870  22.911764        (5, 15)                  Energy           1.35    57612189696           0.573            18.16        None         None         None
+12      BTC-USD  2024-07-18  63974.066406            BUY   48.162729        N/A     (N/A, N/A)                     N/A            N/A  1316936220672             N/A              NaN        None         None         None
+
+Warnings:
+{'KRE': ['rule_accelerating_growth'], 'DHI': ['rule_largest_gain']}
+
+Stocks with Upcoming Earnings:
+CDNS: Earnings on 2024-07-22 00:00:00
+COF: Earnings on 2024-07-23 00:00:00
+GOOGL: Earnings on 2024-07-23 00:00:00
+KO: Earnings on 2024-07-23 00:00:00
+TSLA: Earnings on 2024-07-23 00:00:00
+UPS: Earnings on 2024-07-23 00:00:00
+NEE: Earnings on 2024-07-24 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-07-24
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date   Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE                Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AAL  2024-07-24     10.170000            BUY   34.682073  14.323944       (15, 25)             Industrials            N/A     6672435200             N/A            12.95        None         None         None
+1          ASML  2024-07-24    872.750000       RISK BUY   48.122512  46.771168       (25, 35)              Technology           0.71   343165304832          -0.187          1156.44        None         None         None
+2           AMD  2024-07-24    144.630005       RISK BUY   46.924524   209.6087       (25, 35)              Technology            N/A   233766928384             N/A           191.68        None         None         None
+3          ABNB  2024-07-24    144.229996            BUY   40.874246  19.307898     (N/A, N/A)       Consumer Cyclical            N/A    91563548672           1.301           152.85        None         None         None
+4           AMC  2024-07-24      4.690000       RISK BUY   53.599551        N/A     (N/A, N/A)  Communication Services            N/A     1694755072             N/A             4.64        None         None         None
+5          BILI  2024-07-24     14.470000       RISK BUY   52.200848        N/A     (N/A, N/A)  Communication Services            N/A     6063306240             N/A            17.58        None         None         None
+6          DDOG  2024-07-24    117.320000       RISK BUY   44.647323   345.0588       (25, 35)              Technology            N/A    39243423744             N/A           147.56        None         None         None
+7           DIS  2024-07-24     89.800003            BUY   31.615437  97.608696     (N/A, N/A)  Communication Services           0.99   163708993536             N/A           123.52        None         None         None
+8          DUOL  2024-07-24    163.800003            BUY   40.681991  165.45454       (25, 35)              Technology            N/A     7063399936             N/A           248.42        None         None         None
+9         GOOGL  2024-07-24    172.630005       RISK BUY   50.378187  24.803162     (N/A, N/A)  Communication Services           0.44  2143011602432           0.314           199.37        None         None         None
+10         LYFT  2024-07-24     12.380000            BUY   39.416443        N/A       (25, 35)              Technology            N/A     4995131904             N/A            18.88        None         None         None
+11         META  2024-07-24    461.269989       RISK BUY   52.193762   26.50977     (N/A, N/A)  Communication Services           0.41  1170025086976           1.141           530.03        None         None         None
+12         MSFT  2024-07-24    428.899994       RISK BUY   54.763457    37.2309       (25, 35)              Technology           0.67  3187717701632             0.2           494.62        None         None         None
+13          NKE  2024-07-24     71.089996            BUY   34.450844   19.05898     (N/A, N/A)       Consumer Cyclical           2.02   107300397056           0.504            92.45        None         None         None
+14         SHOP  2024-07-24     59.270000       RISK BUY   42.666020        N/A       (25, 35)              Technology            N/A    76364062720             N/A           108.16        None         None         None
+15         SNOW  2024-07-24    125.620003       RISK BUY   39.164055        N/A       (25, 35)              Technology            N/A    42056949760             N/A           194.28        None         None         None
+16         SMCI  2024-07-24    711.559998       RISK BUY   45.657972  39.663322       (25, 35)              Technology            N/A    41666461696           3.288          1026.50        None         None         None
+17         SNAP  2024-07-24     13.580000       RISK BUY   47.501286        N/A     (N/A, N/A)  Communication Services            N/A    22285322240             N/A            15.21        None         None         None
+18         INTC  2024-07-24     31.700001            BUY   49.907400  32.680412       (25, 35)              Technology           1.52   134942777344             N/A            38.02        None         None         None
+19          TMF  2024-07-24     47.900002       RISK BUY   53.281411        N/A     (N/A, N/A)                     N/A            N/A            N/A             N/A              NaN        None         None         None
+20         UBER  2024-07-24     66.139999       RISK BUY   47.989497  104.98412       (25, 35)              Technology            N/A   138200858624             N/A            86.32        None         None         None
+21          UPS  2024-07-24    128.529999            BUY   41.500802  20.967373       (15, 25)             Industrials           5.11   109964992512           -0.32           154.40        None         None         None
+22    688091.SS  2024-07-24     20.400000            BUY   34.152395  33.999996       (15, 25)              Healthcare           1.44     4440304640          -0.479              NaN        None         None         None
+23    600221.SS  2024-07-24      1.060000       RISK BUY   34.615376       53.0       (15, 25)             Industrials            N/A    45884641280           3.297              NaN        None         None         None
+24      BTC-USD  2024-07-24  65363.480469            BUY   46.729223        N/A     (N/A, N/A)                     N/A            N/A  1289654501376             N/A              NaN        None         None         None
+
+Warnings:
+{'KRE': ['rule_accelerating_growth'], 'SPOT': ['rule_largest_gain'], 'UPS': ['rule_falling_below_ma']}
+
+Stocks with Upcoming Earnings:
+NEE: Earnings on 2024-07-24 00:00:00
+ANET: Earnings on 2024-07-30 00:00:00
+MSFT: Earnings on 2024-07-30 00:00:00
+PFE: Earnings on 2024-07-30 00:00:00
+ALB: Earnings on 2024-07-31 00:00:00
+META: Earnings on 2024-07-31 00:00:00
+AAPL: Earnings on 2024-08-01 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-08-01
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date   Daily Price Recommendation  60 DAY RSI   P/E Ratio Recommended PE                Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AAL  2024-08-01     10.140000            BUY   31.161234         N/A       (15, 25)             Industrials            N/A     6658978816          -0.463            11.65        None         None         None
+1          ASML  2024-08-01    883.710022       RISK BUY   48.778920   47.639355       (25, 35)              Technology           0.71   347474788352          -0.187          1167.96        None         None         None
+2           AMD  2024-08-01    132.539993            BUY   44.328386    157.7857       (25, 35)              Technology            N/A   214513336320           8.553           187.71        None         None         None
+3          ABNB  2024-08-01    135.089996            BUY   37.362632   18.108578     (N/A, N/A)       Consumer Cyclical            N/A    85761081344           1.301           152.79        None         None         None
+4           ALB  2024-08-01     93.169998            BUY   36.385346         N/A     (N/A, N/A)         Basic Materials           1.73    10950549504             N/A           128.40        None         None         None
+5          ALTM  2024-08-01      3.040000            BUY   37.202379    6.909091     (N/A, N/A)         Basic Materials            N/A     3268577536          -0.957             5.89        None         None         None
+6          ARKK  2024-08-01     43.209999            BUY   45.750452         N/A     (N/A, N/A)                     N/A            N/A            N/A             N/A              NaN        None         None         None
+7           ARM  2024-08-01    121.510002       RISK BUY   52.268682     303.775       (25, 35)              Technology            N/A   127342485504             1.1           128.53        None         None         None
+8           BAC  2024-08-01     39.500000       RISK BUY   54.125079    13.85965     (N/A, N/A)      Financial Services           2.58   306503417856          -0.057            45.86        None         None         None
+9          BILI  2024-08-01     15.230000       RISK BUY   50.802510         N/A     (N/A, N/A)  Communication Services            N/A     6506347520             N/A            17.73        None         None         None
+10         BNTX  2024-08-01     80.680000            BUY   43.741975   158.19608       (15, 25)              Healthcare            N/A    19443073024             N/A           113.86        None         None         None
+11         CDNS  2024-08-01    260.809998       RISK BUY   45.355481    67.74286       (25, 35)              Technology            N/A    71414996992           0.037           325.12        None         None         None
+12         COIN  2024-08-01    212.639999       RISK BUY   48.537869    41.53125     (N/A, N/A)      Financial Services            N/A    52217790464             N/A           267.11        None         None         None
+13         DASH  2024-08-01    108.199997            BUY   45.527295         N/A     (N/A, N/A)  Communication Services            N/A    44244492288             N/A           134.96        None         None         None
+14          DAL  2024-08-01     41.500000       RISK BUY   35.617848    5.954089       (15, 25)             Industrials           1.39    26784888832          -0.292            60.63        None         None         None
+15         DDOG  2024-08-01    113.099998            BUY   44.824240   332.64706       (25, 35)              Technology            N/A    37831835648             N/A           147.56        None         None         None
+16         DUOL  2024-08-01    164.500000       RISK BUY   36.244413   167.85715       (25, 35)              Technology            N/A     7093585408             N/A           248.42        None         None         None
+17         HOOD  2024-08-01     20.240000       RISK BUY   53.504272   144.57143     (N/A, N/A)      Financial Services            N/A    17787639808             N/A            23.27        None         None         None
+18         LYFT  2024-08-01     11.420000       RISK BUY   32.531499         N/A       (25, 35)              Technology            N/A     4607787520             N/A            18.68        None         None         None
+19          LLY  2024-08-01    832.440002       RISK BUY   55.463274  123.142006       (15, 25)              Healthcare           0.65   749533134848           0.664           926.31        None         None         None
+20          MDB  2024-08-01    239.330002       RISK BUY   34.844051         N/A       (25, 35)              Technology            N/A    17555023872             N/A           318.34        None         None         None
+21         META  2024-08-01    497.739990       RISK BUY   53.795141   25.472874     (N/A, N/A)  Communication Services           0.42  1262532427776           0.732           523.30        None         None         None
+22         MSFT  2024-08-01    417.109985       RISK BUY   50.929796   35.348305       (25, 35)              Technology           0.72  3100395175936           0.097           497.30        None         None         None
+23         NVDA  2024-08-01    109.209999       RISK BUY   54.367140   63.865494       (25, 35)              Technology           0.03  2686380408832             6.5           135.95        None         None         None
+24          OXY  2024-08-01     59.380001            BUY   42.145564    17.16185        (5, 15)                  Energy           1.45    52648505344          -0.248            72.14        None         None         None
+25         PANW  2024-08-01    315.619995       RISK BUY   52.572384   45.609825       (25, 35)              Technology            N/A   102197755904           1.548           343.43        None         None         None
+26         PLTR  2024-08-01     26.080000       RISK BUY   51.353876   217.33334       (25, 35)              Technology            N/A    58077552640           4.018            23.27        None         None         None
+27         RBLX  2024-08-01     38.849998            BUY   48.572074         N/A     (N/A, N/A)  Communication Services            N/A    24863143936             N/A            41.07        None         None         None
+28         SAVE  2024-08-01      2.760000            BUY   45.668136         N/A       (15, 25)             Industrials            N/A      302222752             N/A             2.57        None         None         None
+29         SHOP  2024-08-01     58.169998            BUY   37.701767         N/A       (25, 35)              Technology            N/A    74946805760             N/A           107.86        None         None         None
+30         SNOW  2024-08-01    124.199997       RISK BUY   37.021698         N/A       (25, 35)              Technology            N/A    41581539328             N/A           193.45        None         None         None
+31         SMCI  2024-08-01    672.239990       RISK BUY   44.886516   37.450695       (25, 35)              Technology            N/A    39364022272           3.288          1024.58        None         None         None
+32         SNAP  2024-08-01     12.810000       RISK BUY   38.910288         N/A     (N/A, N/A)  Communication Services            N/A    21021722624             N/A            15.21        None         None         None
+33         SBUX  2024-08-01     75.110001       RISK BUY   52.102687   21.039217     (N/A, N/A)       Consumer Cyclical           2.92    85114650624          -0.062            86.38        None         None         None
+34         INTC  2024-08-01     29.049999            BUY   46.767675   29.948452       (25, 35)              Technology           1.63   123662065664             N/A            38.02        None         None         None
+35           BA  2024-08-01    178.309998            BUY   49.988461         N/A       (15, 25)             Industrials            N/A   109868728320             N/A           219.35        None         None         None
+36          TSM  2024-08-01    158.179993       RISK BUY   53.821981   30.954988       (25, 35)              Technology           1.49   820334034944           0.363           196.18        None         None         None
+37          UAL  2024-08-01     42.380001       RISK BUY   37.044493    4.751121       (15, 25)             Industrials            N/A    13935984640           0.222            70.85        None         None         None
+38         UBER  2024-08-01     61.020000            BUY   42.738477    96.85715       (25, 35)              Technology            N/A   127502508032             N/A            86.48        None         None         None
+39         NFLX  2024-08-01    624.849976       RISK BUY   53.537711   39.004368     (N/A, N/A)  Communication Services            N/A   268163727360           0.483           692.69        None         None         None
+40    688091.SS  2024-08-01     23.330000            BUY   37.145273   37.031746       (15, 25)              Healthcare            1.4     4800380928          -0.479              NaN        None         None         None
+41    600221.SS  2024-08-01      1.090000       RISK BUY   36.190477   54.500004       (15, 25)             Industrials            N/A    47174979584           3.297              NaN        None         None         None
+42    300169.SZ  2024-08-01      5.710000            BUY   49.904398         N/A     (N/A, N/A)         Basic Materials            N/A     1861368704             N/A              NaN        None         None         None
+43    601808.SS  2024-08-01     15.000000       RISK BUY   39.939350   22.058823        (5, 15)                  Energy           1.39    55899148288           0.573            18.16        None         None         None
+44      BTC-USD  2024-08-01  65026.812500            BUY   47.781543         N/A     (N/A, N/A)                     N/A            N/A  1283264217088             N/A              NaN        None         None         None
+45      ETH-USD  2024-08-01   3203.597168            BUY   42.436633         N/A     (N/A, N/A)                     N/A            N/A   385236795392             N/A              NaN        None         None         None
+
+Warnings:
+{'CDNS': ['rule_largest_gain'], '300169.SZ': ['rule_price_increase']}
+
+Stocks with Upcoming Earnings:
+AAPL: Earnings on 2024-08-01 00:00:00
+XOM: Earnings on 2024-08-02 00:00:00
+PLTR: Earnings on 2024-08-05 00:00:00
+ABNB: Earnings on 2024-08-06 00:00:00
+ALTM: Earnings on 2024-08-06 00:00:00
+SMCI: Earnings on 2024-08-06 00:00:00
+NVO: Earnings on 2024-08-07 00:00:00
+OXY: Earnings on 2024-08-07 00:00:00
+BABA: Earnings on 2024-08-08 00:00:00
+LLY: Earnings on 2024-08-08 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-08-02
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date   Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE                Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AAL  2024-08-02      9.630000            BUY   30.877479        N/A       (15, 25)             Industrials            N/A     6324059648          -0.463            11.65        None         None         None
+1          ASML  2024-08-02    809.349976       RISK BUY   46.416552   43.60722       (25, 35)              Technology           0.75   331170611200          -0.187          1166.93        None         None         None
+2           AMD  2024-08-02    132.500000            BUY   44.613648   157.7381       (25, 35)              Technology            N/A   214448603136           8.553           187.71        None         None         None
+3          ABNB  2024-08-02    128.229996            BUY   35.792689  17.165997     (N/A, N/A)       Consumer Cyclical            N/A    81406050304           1.301           152.79        None         None         None
+4           ALB  2024-08-02     86.989998            BUY   34.454890        N/A     (N/A, N/A)         Basic Materials           1.74    10224195584             N/A           125.05        None         None         None
+5          ALTM  2024-08-02      2.860000            BUY   36.337210        6.5     (N/A, N/A)         Basic Materials            N/A     3075043328          -0.957             5.89        None         None         None
+6          ARKK  2024-08-02     41.209999            BUY   44.542254        N/A     (N/A, N/A)                     N/A            N/A            N/A             N/A              NaN        None         None         None
+7           BAC  2024-08-02     37.580002       RISK BUY   49.940989  13.185966     (N/A, N/A)      Financial Services           2.63   291605020672          -0.057            45.86        None         None         None
+8          BILI  2024-08-02     15.500000       RISK BUY   52.907598        N/A     (N/A, N/A)  Communication Services            N/A     6560948736             N/A            17.56        None         None         None
+9          BNTX  2024-08-02     82.010002            BUY   45.568991  160.80392       (15, 25)              Healthcare            N/A    19763591168             N/A           113.77        None         None         None
+10            C  2024-08-02     58.759998       RISK BUY   46.700610  16.232044     (N/A, N/A)      Financial Services            3.4   112102326272           0.149            71.01        None         None         None
+11         CDNS  2024-08-02    249.630005       RISK BUY   43.686005   64.67099       (25, 35)              Technology            N/A    68353687552           0.037           325.12        None         None         None
+12         COIN  2024-08-02    204.440002       RISK BUY   48.977865  36.442066     (N/A, N/A)      Financial Services            N/A    50798841856             N/A           264.94        None         None         None
+13         COST  2024-08-02    822.080017       RISK BUY   56.075521   50.83983     (N/A, N/A)      Consumer Defensive           0.57   364456837120            0.29           886.84        None         None         None
+14          DAL  2024-08-02     39.830002       RISK BUY   34.770840   5.714491       (15, 25)             Industrials           1.45    25707040768          -0.292            60.63        None         None         None
+15         DDOG  2024-08-02    107.250000            BUY   47.944439  315.44116       (25, 35)              Technology            N/A    35875016704             N/A           147.43        None         None         None
+16          DIS  2024-08-02     89.570000            BUY   34.997898  97.358696     (N/A, N/A)  Communication Services           0.97   163289694208             N/A           123.11        None         None         None
+17         DUOL  2024-08-02    162.009995            BUY   35.816263  163.64645       (25, 35)              Technology            N/A     6986211328             N/A           248.42        None         None         None
+18        GOOGL  2024-08-02    166.660004       RISK BUY   48.062650  23.911049     (N/A, N/A)  Communication Services           0.47  2060634292224           0.313           203.91        None         None         None
+19         HOOD  2024-08-02     17.879999       RISK BUY   49.852348  127.71428     (N/A, N/A)      Financial Services            N/A    15713586176             N/A            23.37        None         None         None
+20         LYFT  2024-08-02     10.920000            BUY   33.333331        N/A       (25, 35)              Technology            N/A     4406045184             N/A            18.68        None         None         None
+21          MDB  2024-08-02    232.699997       RISK BUY   35.158692        N/A       (25, 35)              Technology            N/A    17068708864             N/A           318.34        None         None         None
+22         META  2024-08-02    488.140015       RISK BUY   52.338002  24.943281     (N/A, N/A)  Communication Services            0.4  1234906382336           0.732           554.81        None         None         None
+23         NVDA  2024-08-02    107.269997       RISK BUY   54.268848   62.73099       (25, 35)              Technology           0.04  2638659715072             6.5           135.63        None         None         None
+24          NVO  2024-08-02    127.489998       RISK BUY   50.092849  44.114185       (15, 25)              Healthcare           1.04   569203359744           0.294           148.82        None         None         None
+25          OXY  2024-08-02     57.669998            BUY   40.065475   16.66763        (5, 15)                  Energy           1.48    52837076992          -0.248            72.18        None         None         None
+26         PANW  2024-08-02    305.600006       RISK BUY   50.013444   44.22576       (25, 35)              Technology            N/A    98953281536           1.548           343.43        None         None         None
+27         PLTR  2024-08-02     24.740000       RISK BUY   55.630479  206.16667       (25, 35)              Technology            N/A    55093506048           4.018            23.27        None         None         None
+28         RBLX  2024-08-02     39.040001            BUY   48.290794        N/A     (N/A, N/A)  Communication Services            N/A    25243695104             N/A            42.42        None         None         None
+29         SAVE  2024-08-02      2.760000            BUY   45.870207        N/A       (15, 25)             Industrials            N/A      302222752             N/A             2.57        None         None         None
+30         SHOP  2024-08-02     54.430000            BUY   36.119293        N/A       (25, 35)              Technology            N/A    70128156672             N/A           108.42        None         None         None
+31         SNOW  2024-08-02    119.769997       RISK BUY   37.060683        N/A       (25, 35)              Technology            N/A    40098398208             N/A           193.45        None         None         None
+32         SOFI  2024-08-02      6.650000            BUY   47.484664        N/A     (N/A, N/A)      Financial Services            N/A     7082981888             N/A             8.38        None         None         None
+33         SMCI  2024-08-02    624.650024       RISK BUY   43.850395  34.799442       (25, 35)              Technology            N/A    36577320960           3.288          1024.58        None         None         None
+34         SNAP  2024-08-02      9.360000       RISK BUY   31.754218        N/A     (N/A, N/A)  Communication Services            N/A    15479754752             N/A            15.21        None         None         None
+35         INTC  2024-08-02     21.480000            BUY   37.560839       89.5       (25, 35)              Technology           1.72    91848474624             N/A            38.02        None         None         None
+36           BA  2024-08-02    169.949997            BUY   48.123053        N/A       (15, 25)             Industrials            N/A   104717574144             N/A           220.31        None         None         None
+37          TRV  2024-08-02    214.529999            BUY   49.526096  13.577848     (N/A, N/A)      Financial Services           1.98    48898039808             N/A           224.06        None         None         None
+38          TSM  2024-08-02    149.860001       RISK BUY   52.155192  29.212475       (25, 35)              Technology           1.56   777185918976           0.363           196.18        None         None         None
+39          UAL  2024-08-02     40.189999       RISK BUY   36.305876   4.505605       (15, 25)             Industrials            N/A    13215837184           0.222            70.85        None         None         None
+40         UBER  2024-08-02     58.990002            BUY   42.183661  93.634926       (25, 35)              Technology            N/A   123260788736             N/A            86.48        None         None         None
+41          WFC  2024-08-02     53.259998       RISK BUY   43.035868  10.913934     (N/A, N/A)      Financial Services           2.81   181284798464           0.064            64.68        None         None         None
+42         NFLX  2024-08-02    613.640015       RISK BUY   50.964112    38.3525     (N/A, N/A)  Communication Services            N/A   263352811520           0.483           692.69        None         None         None
+43    688091.SS  2024-08-02     22.830000            BUY   35.163423   36.82258       (15, 25)              Healthcare           1.33     4800372736          -0.479              NaN        None         None         None
+44    300169.SZ  2024-08-02      5.500000            BUY   48.243115        N/A     (N/A, N/A)         Basic Materials            N/A     1792912000             N/A              NaN        None         None         None
+45    601808.SS  2024-08-02     14.580000       RISK BUY   37.870373  21.441175        (5, 15)                  Energy           1.44    54346657792           0.573            18.16        None         None         None
+46      BTC-USD  2024-08-01  65357.500000            BUY   48.061221        N/A     (N/A, N/A)                     N/A            N/A  1212352036864             N/A              NaN        None         None         None
+47      ETH-USD  2024-08-01   3201.564453            BUY   42.414042        N/A     (N/A, N/A)                     N/A            N/A   358004490240             N/A              NaN        None         None         None
+
+Warnings:
+{}
+
+Stocks with Upcoming Earnings:
+XOM: Earnings on 2024-08-02 00:00:00
+PLTR: Earnings on 2024-08-05 00:00:00
+ABNB: Earnings on 2024-08-06 00:00:00
+ALTM: Earnings on 2024-08-06 00:00:00
+SMCI: Earnings on 2024-08-06 00:00:00
+NVO: Earnings on 2024-08-07 00:00:00
+OXY: Earnings on 2024-08-07 00:00:00
+LLY: Earnings on 2024-08-08 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-08-16
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date   Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE                Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AAL  2024-08-16     10.050000            BUY   33.164133        N/A       (15, 25)             Industrials            N/A     6632708608          -0.463            11.65        None         None         None
+1          ABNB  2024-08-16    116.309998       RISK BUY   38.778968   15.82449     (N/A, N/A)       Consumer Cyclical            N/A    75182555136          -0.125           130.64        None         None         None
+2           ALK  2024-08-16     34.779999            BUY   38.983045  19.761364       (15, 25)             Industrials            N/A     4453405184          -0.081            53.25        None         None         None
+3          ALTM  2024-08-16      2.680000            BUY   34.298782   7.882353     (N/A, N/A)         Basic Materials            N/A     2882071808          -0.611             5.21        None         None         None
+4          BNTX  2024-08-16     85.190002            BUY   46.739338        N/A       (15, 25)              Healthcare            N/A    20759355392             N/A           112.40        None         None         None
+5          COIN  2024-08-16    205.309998       RISK BUY   47.850196   36.46714     (N/A, N/A)      Financial Services            N/A    48982450176             N/A           262.50        None         None         None
+6          LYFT  2024-08-16     11.200000            BUY   37.660338        N/A       (25, 35)              Technology            N/A     4498222592             N/A            15.09        None         None         None
+7           MDB  2024-08-16    251.050003       RISK BUY   36.340153        N/A       (25, 35)              Technology            N/A    18414694400             N/A           318.34        None         None         None
+8          MSFT  2024-08-16    418.470001       RISK BUY   48.061149   35.46356       (25, 35)              Technology           0.71  3129607454720           0.097           497.69        None         None         None
+9           PFE  2024-08-16     28.299999       RISK BUY   50.319080        N/A       (15, 25)              Healthcare           5.85   160367591424          -0.982            32.92        None         None         None
+10         SNOW  2024-08-16    128.039993       RISK BUY   38.971943        N/A       (25, 35)              Technology            N/A    42867150848             N/A           191.02        None         None         None
+11         SMCI  2024-08-16    628.799988            BUY   41.401043  31.159563       (25, 35)              Technology            N/A    36820328448            0.61           874.81        None         None         None
+12         SNAP  2024-08-16      9.230000       RISK BUY   34.329086        N/A     (N/A, N/A)  Communication Services            N/A    15317000192             N/A            12.91        None         None         None
+13           BA  2024-08-16    179.990005       RISK BUY   48.730455        N/A       (15, 25)             Industrials            N/A   110913978368             N/A           219.46        None         None         None
+14         TSLA  2024-08-16    216.119995       RISK BUY   53.893842  60.878872     (N/A, N/A)       Consumer Cyclical            N/A   690425561088          -0.462           207.64        None         None         None
+15          UAL  2024-08-16     42.070000       RISK BUY   39.301055   4.716368       (15, 25)             Industrials            N/A    14028073984           0.222            70.85        None         None         None
+16    601808.SS  2024-08-16     14.440000       RISK BUY   38.740972  21.235292        (5, 15)                  Energy           1.44    53931376640           0.573            18.16        None         None         None
+17      BTC-USD  2024-08-15  57560.097656            BUY   44.280537        N/A     (N/A, N/A)                     N/A            N/A  1169112825856             N/A              NaN        None         None         None
+
+Warnings:
+{'JPM': ['rule_accelerating_growth'], 'NKE': ['rule_accelerating_growth'], 'SBUX': ['rule_price_increase']}
+
+Stocks with Upcoming Earnings:
+PANW: Earnings on 2024-08-19 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-10-18
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE           Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         ASML  2024-10-18       719.75            BUY   44.626446  37.624153       (25, 35)         Technology           0.97  283005714432           0.098          1001.39        None         None         None
+1    600733.SS  2024-10-18         7.49            BUY   39.860139        N/A     (N/A, N/A)  Consumer Cyclical            N/A   42509869056             N/A             6.25        None         None         None
+2    601808.SS  2024-10-18        15.44            BUY   48.275861  22.376812        (5, 15)             Energy            1.4   57111015424           0.008            18.16        None         None         None
+
+Warnings:
+{'ALK': ['rule_accelerating_growth'], 'ARM': ['rule_accelerating_growth'], 'TRV': ['rule_largest_gain', 'rule_accelerating_growth'], 'TSM': ['rule_largest_gain'], 'WFC': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+ALK: Earnings on 2024-10-18 00:00:00
+KO: Earnings on 2024-10-23 00:00:00
+NEE: Earnings on 2024-10-23 00:00:00
+TSLA: Earnings on 2024-10-23 00:00:00
+AAL: Earnings on 2024-10-24 00:00:00
+COF: Earnings on 2024-10-24 00:00:00
+UPS: Earnings on 2024-10-24 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-10-13
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE                Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         COIN  2024-10-11   176.380005            BUY   42.983363  38.407475     (N/A, N/A)      Financial Services            N/A   53633978368             N/A           251.39        None         None         None
+1         DASH  2024-10-11   149.440002           SELL   71.001359        N/A     (N/A, N/A)  Communication Services            N/A   62231171072             N/A           148.89        None         None         None
+2          MDB  2024-10-11   292.859985       RISK BUY   56.307218        N/A       (25, 35)              Technology            N/A   20082532352             N/A           336.13        None         None         None
+3          NVO  2024-10-11   120.040001            BUY   46.496483   40.15017       (15, 25)              Healthcare           1.22  526328397824           0.039           143.26        None         None         None
+4         SAVE  2024-10-11     1.610000            BUY   37.938144        N/A       (15, 25)             Industrials            N/A     167014944             N/A             2.32        None         None         None
+5           BA  2024-10-11   151.020004            BUY   42.113509        N/A       (15, 25)             Industrials            N/A   95317368832             N/A           199.66        None         None         None
+6         TSLA  2024-10-11   217.800003       RISK BUY   46.295642   62.25562     (N/A, N/A)       Consumer Cyclical            N/A  708028071936          -0.462           210.27        None         None         None
+7          DHI  2024-10-11   182.820007       RISK BUY   53.888510  12.894347     (N/A, N/A)       Consumer Cyclical           0.63   62434013184           0.051           191.26        None         None         None
+8    601808.SS  2024-10-11    15.790000            BUY   49.359796  22.376812        (5, 15)                  Energy            1.4   57111015424           0.008            18.16        None         None         None
+
+Warnings:
+{'ARM': ['rule_accelerating_growth'], 'JPM': ['rule_largest_gain'], 'XOM': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+ASML: Earnings on 2024-10-15 00:00:00
+UAL: Earnings on 2024-10-15 00:00:00
+ISRG: Earnings on 2024-10-17 00:00:00
+NFLX: Earnings on 2024-10-17 00:00:00
+ALK: Earnings on 2024-10-18 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-10-05
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date  Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE                Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AMD  2024-10-04   170.899994            BUY   47.520213  186.42262       (25, 35)              Technology            N/A   253445881856           8.553           188.62        None         None         None
+1          ALTM  2024-10-04     3.080000            BUY   45.681382  16.279411     (N/A, N/A)         Basic Materials            N/A     5952504832          -0.611             5.69        None         None         None
+2           AMC  2024-10-04     4.400000       RISK BUY   43.553463        N/A     (N/A, N/A)  Communication Services            N/A     1550212992             N/A             4.64        None         None         None
+3           BAC  2024-10-04    40.110001       RISK BUY   47.315776  15.331521     (N/A, N/A)      Financial Services           2.44   325350293504            -0.1            45.82        None         None         None
+4          DDOG  2024-10-04   122.690002            BUY   48.093866  271.70212       (25, 35)              Technology            N/A    43054309376             N/A           147.29        None         None         None
+5           JPM  2024-10-04   211.220001       RISK BUY   51.748935  12.492778     (N/A, N/A)      Financial Services           2.23   633076514816           0.009           225.42        None         None         None
+6           KRE  2024-10-04    55.840000       RISK BUY   54.359699  10.616438     (N/A, N/A)                     N/A            N/A            N/A             N/A              NaN        None         None         None
+7           MDB  2024-10-04   265.359985       RISK BUY   52.324340        N/A       (25, 35)              Technology            N/A    20102848512             N/A           336.13        None         None         None
+8          MSFT  2024-10-04   416.059998       RISK BUY   42.383220  35.341816       (25, 35)              Technology            0.8  3097199116288           0.097           495.65        None         None         None
+9           NVO  2024-10-04   115.120003            BUY   41.553375  40.129692       (15, 25)              Healthcare           1.22   526059962368           0.039           143.26        None         None         None
+10          OXY  2024-10-04    55.759998            BUY   43.311344  13.268135        (5, 15)                  Energy            1.7    47895040000           0.635            63.92        None         None         None
+11          PFE  2024-10-04    28.580000       RISK BUY   50.944630        N/A       (15, 25)              Healthcare           5.74   165382635520          -0.982            33.19        None         None         None
+12         RBLX  2024-10-04    41.990002       RISK BUY   54.141800        N/A     (N/A, N/A)  Communication Services            N/A    25712381952             N/A            45.70        None         None         None
+13         SAVE  2024-10-04     1.690000            BUY   36.237626        N/A       (15, 25)             Industrials            N/A      168110128             N/A             2.32        None         None         None
+14         SNOW  2024-10-04   114.720001       RISK BUY   41.941474        N/A       (25, 35)              Technology            N/A    39717847040             N/A           173.98        None         None         None
+15          TMF  2024-10-04    53.639999       RISK BUY   51.848878        N/A     (N/A, N/A)                     N/A            N/A            N/A             N/A              NaN        None         None         None
+16    300169.SZ  2024-09-30     9.620000           SELL   70.706259        N/A     (N/A, N/A)         Basic Materials            N/A     3188123392             N/A              NaN        None         None         None
+17    601808.SS  2024-09-30    16.080000            BUY   48.876836  22.376812        (5, 15)                  Energy            1.4    57111015424           0.008            18.16        None         None         None
+
+Warnings:
+{'JPM': ['rule_largest_gain'], '688091.SS': ['rule_price_increase', 'rule_largest_gain'], '600221.SS': ['rule_price_increase'], '601808.SS': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2024-9-24
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date  Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE                Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           ALB  2024-09-24    90.459999            BUY   48.405528        N/A     (N/A, N/A)         Basic Materials           1.71    11184440320             N/A           110.24        None         None         None
+1          ALTM  2024-09-24     2.580000            BUY   42.696630  16.279411     (N/A, N/A)         Basic Materials            N/A     5952504832          -0.611             5.69        None         None         None
+2          NVDA  2024-09-24   120.870003       RISK BUY   49.415207  64.357475       (25, 35)              Technology           0.03  3378394431488            1.68           149.03        None         None         None
+3           PDD  2024-09-24   113.800003            BUY   44.904478  13.243902     (N/A, N/A)       Consumer Cyclical            N/A   173443497984             1.4           167.45        None         None         None
+4          SAVE  2024-09-24     2.370000            BUY   36.809815        N/A       (15, 25)             Industrials            N/A      167146384             N/A             2.32        None         None         None
+5          SNOW  2024-09-24   112.500000            BUY   42.397527        N/A       (25, 35)              Technology            N/A    39727902720             N/A           173.98        None         None         None
+6          SNAP  2024-09-24    10.570000            BUY   33.780876        N/A     (N/A, N/A)  Communication Services            N/A    17511000064             N/A            12.52        None         None         None
+7          INTC  2024-09-24    22.809999            BUY   41.428174       94.5       (25, 35)              Technology           2.23    96979681280             N/A            25.59        None         None         None
+8            BA  2024-09-24   155.809998            BUY   42.628025        N/A       (15, 25)             Industrials            N/A    95385149440             N/A           199.66        None         None         None
+9     601288.SS  2024-09-24     4.800000       RISK BUY   56.508877    6.79452     (N/A, N/A)      Financial Services           4.64  1680200040448           0.073             4.65        None         None         None
+10    600221.SS  2024-09-24     1.060000       RISK BUY   52.702699  37.666668       (15, 25)             Industrials            N/A    48416206848             N/A              NaN        None         None         None
+11    600733.SS  2024-09-24     6.680000       RISK BUY   45.308312        N/A     (N/A, N/A)       Consumer Cyclical            N/A    42509869056             N/A             6.25        None         None         None
+12    603628.SS  2024-09-24    12.360000       RISK BUY   50.280371  32.238094       (25, 35)              Technology           0.94     3707251968          -0.256              NaN        None         None         None
+13    601808.SS  2024-09-24    13.900000            BUY   36.585358  22.376812        (5, 15)                  Energy            1.4    57111015424           0.008            18.16        None         None         None
+14      ETH-USD  2024-09-24  2654.354980            BUY   42.582418        N/A     (N/A, N/A)                     N/A            N/A   317951213568             N/A              NaN        None         None         None
+
+Warnings:
+{'ANET': ['rule_accelerating_growth'], 'CVNA': ['rule_accelerating_growth'], 'DUOL': ['rule_accelerating_growth'], 'GOOGL': ['rule_accelerating_growth'], 'META': ['rule_accelerating_growth'], 'PLTR': ['rule_accelerating_growth'], 'SHOP': ['rule_accelerating_growth'], 'SPOT': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2024-9-30
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date   Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE            Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           BAC  2024-09-30     39.680000       RISK BUY   49.121905  15.329711     (N/A, N/A)  Financial Services           2.44   325311856640            -0.1            45.82        None         None         None
+1          COIN  2024-09-30    178.169998            BUY   44.679806   38.41637     (N/A, N/A)  Financial Services            N/A    53646397440             N/A           251.39        None         None         None
+2           JPM  2024-09-30    209.575714       RISK BUY   52.252655  12.501111     (N/A, N/A)  Financial Services           2.23   633498828800           0.009           225.42        None         None         None
+3           LLY  2024-09-30    885.940002       RISK BUY   48.451807    112.481       (15, 25)          Healthcare           0.57   826451492864           0.682          1013.76        None         None         None
+4           NVO  2024-09-30    119.070000            BUY   42.280978   40.15017       (15, 25)          Healthcare           1.22   526328397824           0.039           143.26        None         None         None
+5           OXY  2024-09-30     51.540001            BUY   36.843998  13.250001        (5, 15)              Energy            1.7    47829577728           0.635            63.92        None         None         None
+6          PANW  2024-09-30    341.799988       RISK BUY   49.958350  51.250683       (25, 35)          Technology            N/A   121816727552           0.591           383.75        None         None         None
+7           PDD  2024-09-30    134.809998            BUY   49.662624  13.218483     (N/A, N/A)   Consumer Cyclical            N/A   173110607872             1.4           167.45        None         None         None
+8           PFE  2024-09-30     28.940001       RISK BUY   53.702775        N/A       (15, 25)          Healthcare           5.74   165269307392          -0.982            33.19        None         None         None
+9          SAVE  2024-09-30      2.400000            BUY   40.087148        N/A       (15, 25)         Industrials            N/A      165919776             N/A             2.32        None         None         None
+10         SNOW  2024-09-30    114.860001            BUY   40.053689        N/A       (25, 35)          Technology            N/A    39724552192             N/A           173.98        None         None         None
+11           BA  2024-09-30    152.039993            BUY   40.995220        N/A       (15, 25)         Industrials            N/A    95132508160             N/A           199.66        None         None         None
+12    300169.SZ  2024-09-30      9.620000           SELL   70.706259        N/A     (N/A, N/A)     Basic Materials            N/A     3188123392             N/A              NaN        None         None         None
+13    601808.SS  2024-09-30     16.080000            BUY   48.876836  22.376812        (5, 15)              Energy            1.4    57111015424           0.008            18.16        None         None         None
+14      BTC-USD  2024-09-30  63329.500000            BUY   48.717324        N/A     (N/A, N/A)                 N/A            N/A  1354008494080             N/A              NaN        None         None         None
+15      ETH-USD  2024-09-30   2603.062744            BUY   42.965568        N/A     (N/A, N/A)                 N/A            N/A   318819893248             N/A              NaN        None         None         None
+
+Warnings:
+{'BILI': ['rule_price_increase'], 'COIN': ['rule_accelerating_growth'], 'NKE': ['rule_accelerating_growth'], 'PDD': ['rule_price_increase'], '300169.SZ': ['rule_price_increase']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2024-10-8
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date  Daily Price Recommendation  60 DAY RSI   P/E Ratio Recommended PE                Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0          COST  2024-10-08   890.419983       RISK BUY   54.166679   53.781876     (N/A, N/A)      Consumer Defensive           0.52   394375725056           0.088           931.40        None         None         None
+1          DDOG  2024-10-08   123.720001            BUY   47.575877   271.98935       (25, 35)              Technology            N/A    43099824128             N/A           147.29        None         None         None
+2          ISRG  2024-10-08   480.790009       RISK BUY   56.087809     82.7029       (15, 25)              Healthcare            N/A   182504488960           0.345           507.88        None         None         None
+3           LLY  2024-10-08   913.719971       RISK BUY   47.983381  112.500725       (15, 25)              Healthcare           0.57   826596392960           0.682          1013.76        None         None         None
+4          MSFT  2024-10-08   414.709991       RISK BUY   42.563600      35.419       (25, 35)              Technology            0.8  3103963217920           0.097           495.65        None         None         None
+5           OXY  2024-10-08    54.320000            BUY   41.058882   13.255182        (5, 15)                  Energy            1.7    47848280064           0.635            63.92        None         None         None
+6          PANW  2024-10-08   355.130005       RISK BUY   51.907906   51.231503       (25, 35)              Technology            N/A   121771139072           0.591           383.75        None         None         None
+7          RBLX  2024-10-08    40.509998       RISK BUY   49.264343         N/A     (N/A, N/A)  Communication Services            N/A    25710764032             N/A            45.70        None         None         None
+8          SAVE  2024-10-08     1.900000            BUY   38.369781         N/A       (15, 25)             Industrials            N/A      165919776             N/A             2.32        None         None         None
+9          SMCI  2024-10-08    45.349998            BUY   32.917998   23.948061       (25, 35)              Technology            N/A    28186523648            0.61            76.69        None         None         None
+10          TRV  2024-10-08   230.339996       RISK BUY   55.781440   13.614594     (N/A, N/A)      Financial Services           1.59    60388040704           2.115           246.15        None         None         None
+11      ETH-USD  2024-10-08  2439.840820       RISK BUY   47.546116         N/A     (N/A, N/A)                     N/A            N/A   318586421248             N/A              NaN        None         None         None
+
+Warnings:
+{'ALTM': ['rule_price_increase', 'rule_largest_gain'], '688091.SS': ['rule_price_increase', 'rule_largest_gain'], '600221.SS': ['rule_price_increase'], '601808.SS': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+ASML: Earnings on 2024-10-15 00:00:00
+UAL: Earnings on 2024-10-15 00:00:00
+ISRG: Earnings on 2024-10-17 00:00:00
+NFLX: Earnings on 2024-10-17 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-10-7
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date  Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE                Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AMC  2024-10-07     4.180000       RISK BUY   41.743118        N/A     (N/A, N/A)  Communication Services            N/A     1547719680             N/A             4.64        None         None         None
+1          COST  2024-10-07   873.590027       RISK BUY   53.165095  53.749245     (N/A, N/A)      Consumer Defensive           0.52   394136453120           0.088           931.40        None         None         None
+2           DIS  2024-10-07    92.389999            BUY   46.167533  37.065136     (N/A, N/A)  Communication Services           0.93   175446687744             N/A           110.82        None         None         None
+3          ISRG  2024-10-07   471.230011       RISK BUY   53.813214   82.67632       (15, 25)              Healthcare            N/A   182445834240           0.345           507.88        None         None         None
+4           LLY  2024-10-07   898.400024       RISK BUY   47.185627  112.49706       (15, 25)              Healthcare           0.57   826569457664           0.682          1013.76        None         None         None
+5          MSFT  2024-10-07   409.540009            BUY   41.485596   35.41985       (25, 35)              Technology            0.8  3104037404672           0.097           495.65        None         None         None
+6           NVO  2024-10-07   117.769997            BUY   41.703666  40.156998       (15, 25)              Healthcare           1.22   526417887232           0.039           143.26        None         None         None
+7           OXY  2024-10-07    55.910000            BUY   43.817071  13.264249        (5, 15)                  Energy            1.7    47881011200           0.635            63.92        None         None         None
+8          PANW  2024-10-07   337.940002       RISK BUY   50.200067  51.224655       (25, 35)              Technology            N/A   121754861568           0.591           383.75        None         None         None
+9           PFE  2024-10-07    29.200001       RISK BUY   51.979256        N/A       (15, 25)              Healthcare           5.74   165212635136          -0.982            33.19        None         None         None
+10         SAVE  2024-10-07     1.860000            BUY   36.986301        N/A       (15, 25)             Industrials            N/A      165919776             N/A             2.32        None         None         None
+11         SMCI  2024-10-07    47.740002            BUY   33.214855  23.857662       (25, 35)              Technology            N/A    28080123904            0.61            76.69        None         None         None
+12         SOUN  2024-10-07     4.740000       RISK BUY   42.596348        N/A       (25, 35)              Technology            N/A     1910253056             N/A             7.79        None         None         None
+13          TRV  2024-10-07   225.970001       RISK BUY   55.031331  13.608941     (N/A, N/A)      Financial Services           1.59    60362964992           2.115           246.15        None         None         None
+14    300169.SZ  2024-09-30     9.620000           SELL   70.706259        N/A     (N/A, N/A)         Basic Materials            N/A     3188123392             N/A              NaN        None         None         None
+15    601808.SS  2024-09-30    16.080000            BUY   48.876836  22.376812        (5, 15)                  Energy            1.4    57111015424           0.008            18.16        None         None         None
+16      ETH-USD  2024-10-07  2421.796631            BUY   46.061984        N/A     (N/A, N/A)                     N/A            N/A   318382735360             N/A              NaN        None         None         None
+
+Warnings:
+{'JPM': ['rule_largest_gain'], '688091.SS': ['rule_price_increase', 'rule_largest_gain'], '600221.SS': ['rule_price_increase'], '601808.SS': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+ASML: Earnings on 2024-10-15 00:00:00
+UAL: Earnings on 2024-10-15 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-10-7
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date  Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE                Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AMC  2024-10-07     4.180000       RISK BUY   41.743118        N/A     (N/A, N/A)  Communication Services            N/A     1568280832             N/A             4.64        None         None         None
+1          COST  2024-10-07   873.590027       RISK BUY   53.165095  53.889626     (N/A, N/A)      Consumer Defensive           0.52   395882168320           0.088           934.50        None         None         None
+2           DIS  2024-10-07    92.389999            BUY   46.167533  37.065136     (N/A, N/A)  Communication Services           0.93   175446687744             N/A           110.82        None         None         None
+3          ISRG  2024-10-07   471.230011       RISK BUY   53.813214   83.06581       (15, 25)              Healthcare            N/A   184322637824           0.345           533.80        None         None         None
+4           LLY  2024-10-07   898.400024       RISK BUY   47.185627  111.41544       (15, 25)              Healthcare           0.57   818622300160           0.682          1015.12        None         None         None
+5          MSFT  2024-10-07   409.540009            BUY   41.485596  36.198982       (25, 35)              Technology           0.79  3177698820096           0.097           495.97        None         None         None
+6           NVO  2024-10-07   117.769997            BUY   41.703666  39.886986       (15, 25)              Healthcare           1.23   519951187968           0.039           143.05        None         None         None
+7           OXY  2024-10-07    55.910000            BUY   43.817071  13.497409        (5, 15)                  Energy            1.7    48722669568           0.635            63.16        None         None         None
+8          PANW  2024-10-07   337.940002       RISK BUY   50.200067   51.73315       (25, 35)              Technology            N/A   122458161152           0.591           385.03        None         None         None
+9           PFE  2024-10-07    29.200001       RISK BUY   51.979256        N/A       (15, 25)              Healthcare           5.81   163427614720          -0.982            33.11        None         None         None
+10         SAVE  2024-10-07     1.860000            BUY   36.986301        N/A       (15, 25)             Industrials            N/A      231082976             N/A             2.29        None         None         None
+11         SMCI  2024-10-07    47.740002            BUY   33.214855  22.870647       (25, 35)              Technology            N/A    26918422528            0.61            76.69        None         None         None
+12         SOUN  2024-10-07     4.740000       RISK BUY   42.596348        N/A       (25, 35)              Technology            N/A     1890522880             N/A             7.79        None         None         None
+13          TRV  2024-10-07   225.970001       RISK BUY   55.031331  13.306982     (N/A, N/A)      Financial Services           1.62    59084275712           2.115           260.44        None         None         None
+14    300169.SZ  2024-09-30     9.620000           SELL   70.706259        N/A     (N/A, N/A)         Basic Materials            N/A     3145745408             N/A              NaN        None         None         None
+15    601808.SS  2024-09-30    16.080000            BUY   48.876836  22.705881        (5, 15)                  Energy           1.37    58281676800           0.008            18.16        None         None         None
+16      ETH-USD  2024-10-07  2421.796631            BUY   46.061984        N/A     (N/A, N/A)                     N/A            N/A   317067296768             N/A              NaN        None         None         None
+
+Warnings:
+{'JPM': ['rule_largest_gain'], '688091.SS': ['rule_price_increase', 'rule_largest_gain'], '600221.SS': ['rule_price_increase'], '601808.SS': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+ASML: Earnings on 2024-10-15 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2024-10-7
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date  Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE                Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AMC  2024-10-07     4.180000       RISK BUY   41.743118        N/A     (N/A, N/A)  Communication Services            N/A     1713100800             N/A             4.24        None         None         None
+1          COST  2024-10-07   872.430786       RISK BUY   53.165098   56.13365     (N/A, N/A)      Consumer Defensive            0.5   413113319424           0.088           938.99        None         None         None
+2           DIS  2024-10-07    92.389999            BUY   46.167533  38.545803     (N/A, N/A)  Communication Services           0.89   183154458624             N/A           111.00        None         None         None
+3          ISRG  2024-10-07   471.230011       RISK BUY   53.813214    86.4847       (15, 25)              Healthcare            N/A   191293063168           0.345           539.24        None         None         None
+4           LLY  2024-10-07   898.400024       RISK BUY   47.185627  88.621216       (15, 25)              Healthcare           0.62   777356836864             N/A           999.43        None         None         None
+5          MSFT  2024-10-07   409.540009            BUY   41.485596  34.903465       (25, 35)              Technology           0.79  3145177235456           0.104           497.60        None         None         None
+6           NVO  2024-10-07   117.769997            BUY   41.703666  35.217106       (15, 25)              Healthcare           1.33   470686040064           0.224           142.36        None         None         None
+7           OXY  2024-10-07    55.910000            BUY   43.817071  13.028498        (5, 15)                  Energy           1.73    47030001664           0.635            62.96        None         None         None
+8          PANW  2024-10-07   337.940002       RISK BUY   50.200067   54.59808       (25, 35)              Technology            N/A   130252439552           0.591           386.94        None         None         None
+9           PFE  2024-10-07    28.753387       RISK BUY   51.979253  34.920002       (15, 25)              Healthcare            6.4   148418478080             N/A            32.62        None         None         None
+10         SAVE  2024-10-07     1.860000            BUY   36.986301        N/A       (15, 25)             Industrials            N/A      352647968             N/A             2.21        None         None         None
+11         SMCI  2024-10-07    47.740002            BUY   33.214855   10.79602       (25, 35)              Technology            N/A    12706760704            0.61            45.43        None         None         None
+12         SOUN  2024-10-07     4.740000       RISK BUY   42.596348        N/A       (25, 35)              Technology            N/A     2712021504             N/A             7.79        None         None         None
+13          TRV  2024-10-07   225.970001       RISK BUY   55.031331  13.243839     (N/A, N/A)      Financial Services           1.63    58568630272           2.115           266.41        None         None         None
+14    300169.SZ  2024-09-30     9.620000           SELL   70.706259        N/A     (N/A, N/A)         Basic Materials            N/A     3259840000             N/A              NaN        None         None         None
+15    601808.SS  2024-09-30    16.080000            BUY   48.876836   23.40909        (5, 15)                  Energy           1.36    57758433280           -0.12            18.23        None         None         None
+16      ETH-USD  2024-10-07  2421.796631            BUY   46.061984        N/A     (N/A, N/A)                     N/A            N/A   390204194816             N/A              NaN        None         None         None
+
+Warnings:
+{'JPM': ['rule_largest_gain'], '688091.SS': ['rule_price_increase', 'rule_largest_gain'], '600221.SS': ['rule_price_increase'], '601808.SS': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+
+***************************************************************************************************
+
+Analysis Date: 2024-10-7
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, 60 DAY RSI, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Analysis Date: 2025-03-11
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, 60 DAY RSI, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Analysis Date: 2024-10-7
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+Empty DataFrame
+Columns: [Company Code, Date, Daily Price, Recommendation, 60 DAY RSI, P/E Ratio, Recommended PE, Category, Dividend Yield, Market Cap, Earnings Growth, One Year Target, Analyst Buy, Analyst Hold, Analyst Sell]
+Index: []
+
+Analysis Date: 2025-03-11
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Analysis Date: 2024-10-7
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date  Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE                Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AMC  2024-10-07     4.180000       RISK BUY   41.743118        N/A     (N/A, N/A)  Communication Services            N/A     1282891520             N/A          3.51250        None         None         None
+1          COST  2024-10-07   871.467896       RISK BUY   53.165099   54.41462     (N/A, N/A)      Consumer Defensive           50.0   412886302720           0.026       1062.40310        None         None         None
+2           DIS  2024-10-07    91.982422            BUY   46.167532  31.785715     (N/A, N/A)  Communication Services           97.0   176982638592           0.346        127.06538        None         None         None
+3          ISRG  2024-10-07   471.230011       RISK BUY   53.813214   76.90343       (15, 25)              Healthcare            N/A   176088694784           0.118        632.52856        None         None         None
+4           LLY  2024-10-07   895.371399       RISK BUY   47.185626   70.43248       (15, 25)              Healthcare           72.0   740145954816           1.018       1006.62537        None         None         None
+5          MSFT  2024-10-07   407.903992            BUY   41.485599  30.706215       (25, 35)              Technology           87.0  2828257722368           0.102        506.37857        None         None         None
+6           NVO  2024-10-07   117.769997            BUY   41.703666   23.88685       (15, 25)              Healthcare          205.0   351294259200           0.292        114.99052        None         None         None
+7           OXY  2024-10-07    55.374767            BUY   43.817075  20.477875        (5, 15)                  Energy          203.0    43465064448             N/A         59.95815        None         None         None
+8          PANW  2024-10-07   168.970001       RISK BUY   50.200067  101.09039       (25, 35)              Technology            N/A   118469541888          -0.844        214.33128        None         None         None
+9           PFE  2024-10-07    28.285765       RISK BUY   51.979257  18.432625       (15, 25)              Healthcare          646.0   147294158848             N/A         31.31600        None         None         None
+10         SMCI  2024-10-07    47.740002            BUY   33.214855  17.756521       (25, 35)              Technology            N/A    24237764608             0.0         52.33643        None         None         None
+11         SOUN  2024-10-07     4.740000       RISK BUY   42.596348        N/A       (25, 35)              Technology            N/A     3361617152             N/A         14.57143        None         None         None
+12          TRV  2024-10-07   224.111282       RISK BUY   55.031327  11.851025     (N/A, N/A)      Financial Services          164.0    57715625984           0.284        269.15286        None         None         None
+13    300169.SZ  2024-09-30     9.620000           SELL   70.706259        N/A     (N/A, N/A)         Basic Materials            N/A     2386202880             N/A              NaN        None         None         None
+14    601808.SS  2024-09-30    16.080000            BUY   48.876836  21.196968        (5, 15)                  Energy          150.0    52081827840           -0.12              NaN        None         None         None
+15      ETH-USD  2024-10-07  2421.796631            BUY   46.061984        N/A     (N/A, N/A)                     N/A            N/A   231471431680             N/A              NaN        None         None         None
+
+Analysis Date: 2025-03-11
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date   Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE                Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0          AAPL  2025-03-11    220.839996       RISK BUY   42.708003  35.053967       (25, 35)              Technology           44.0  3317480554496           0.101        252.79564        None         None         None
+1           AAL  2025-03-11     11.460000       RISK BUY   33.781608   9.241936       (15, 25)             Industrials            N/A     7535820800          29.479         20.29045        None         None         None
+2           AMD  2025-03-11     96.760002       RISK BUY   38.690134      96.76       (25, 35)              Technology            N/A   156797648896          -0.297        148.33534        None         None         None
+3          ABNB  2025-03-11    125.440002       RISK BUY   45.663610  30.520681     (N/A, N/A)       Consumer Cyclical            N/A    77940891648             N/A        156.73853        None         None         None
+4           ALK  2025-03-11     53.639999       RISK BUY   45.492043  17.415585       (15, 25)             Industrials            N/A     6601903616             N/A         87.62267        None         None         None
+5           ARM  2025-03-11    111.489998       RISK BUY   45.928545  146.69737       (25, 35)              Technology            N/A   117510455296           1.994        158.43456        None         None         None
+6           AMC  2025-03-11      2.970000       RISK BUY   34.836066        N/A     (N/A, N/A)  Communication Services            N/A     1282891520             N/A          3.51250        None         None         None
+7             C  2025-03-11     67.500000       RISK BUY   46.539876  11.344538     (N/A, N/A)      Financial Services          332.0   127202402304             N/A         91.07895        None         None         None
+8          CDNS  2025-03-11    234.250000       RISK BUY   38.394404   60.68653       (25, 35)              Technology            N/A    64209797120           0.041        322.56546        None         None         None
+9          COIN  2025-03-11    191.690002       RISK BUY   40.107209  20.220465     (N/A, N/A)      Financial Services            N/A    48666066944           3.521        324.91666        None         None         None
+10         DASH  2025-03-11    183.729996       RISK BUY   52.733440   656.1785     (N/A, N/A)  Communication Services            N/A    77184237568             N/A        218.78175        None         None         None
+11          DAL  2025-03-11     46.680000       RISK BUY   39.171318   8.757974       (15, 25)             Industrials          119.0    30153504768          -0.593         77.74682        None         None         None
+12         DDOG  2025-03-11    101.959999       RISK BUY   31.976312  196.07693       (25, 35)              Technology            N/A    34948218880          -0.148        159.47975        None         None         None
+13          DIS  2025-03-11     97.900002       RISK BUY   37.652383  31.785715     (N/A, N/A)  Communication Services           97.0   176982638592           0.346        127.06538        None         None         None
+14        GOOGL  2025-03-11    164.039993       RISK BUY   44.083811  20.402985     (N/A, N/A)  Communication Services           48.0  2010195296256           0.309        217.92604        None         None         None
+15         HOOD  2025-03-11     36.360001       RISK BUY   49.563852  23.307693     (N/A, N/A)      Financial Services            N/A    32195362816          28.194         67.71263        None         None         None
+16          JPM  2025-03-11    229.139999       RISK BUY   46.271030  11.607903     (N/A, N/A)      Financial Services          215.0   640700645376           0.582        266.73856        None         None         None
+17         LYFT  2025-03-11     11.430000       RISK BUY   38.076152  190.50002       (25, 35)              Technology            N/A     4777842688             N/A         17.22026        None         None         None
+18          MDB  2025-03-11    195.699997            BUY   38.110999        N/A       (25, 35)              Technology            N/A    15747548160             N/A        304.74600        None         None         None
+19         MSFT  2025-03-11    380.450012            BUY   39.108478  30.706215       (25, 35)              Technology           87.0  2828257722368           0.102        506.37857        None         None         None
+20          NKE  2025-03-11     74.169998            BUY   48.289438  22.891975     (N/A, N/A)       Consumer Cyclical          209.0   109707067392          -0.243         86.04091        None         None         None
+21         NVDA  2025-03-11    108.760002       RISK BUY   44.358194    36.9932       (25, 35)              Technology            4.0  2653744005120           0.836        172.36304        None         None         None
+22         ORCL  2025-03-11    144.179993       RISK BUY   42.347945  33.845066       (25, 35)              Technology          108.0   403265683456             0.2        187.22281        None         None         None
+23         PANW  2025-03-11    178.929993       RISK BUY   45.723856  101.09039       (25, 35)              Technology            N/A   118469541888          -0.844        214.33128        None         None         None
+24         RBLX  2025-03-11     54.750000       RISK BUY   49.003038        N/A     (N/A, N/A)  Communication Services            N/A    36534673408             N/A         66.83800        None         None         None
+25         SOFI  2025-03-11     11.260000       RISK BUY   43.408571  28.871796     (N/A, N/A)      Financial Services            N/A    12347040768           7.732         13.73125        None         None         None
+26         SMCI  2025-03-11     40.840000       RISK BUY   50.114714  17.756521       (25, 35)              Technology            N/A    24237764608             0.0         52.33643        None         None         None
+27         SNAP  2025-03-11      8.860000       RISK BUY   39.209723        N/A     (N/A, N/A)  Communication Services            N/A    15029748736             N/A         12.97139        None         None         None
+28         SPOT  2025-03-11    508.440002       RISK BUY   52.794458   85.16583     (N/A, N/A)  Communication Services            N/A   104081227776             N/A        677.18463        None         None         None
+29         TSLA  2025-03-11    230.580002       RISK BUY   38.870967  113.02941     (N/A, N/A)       Consumer Cyclical            N/A   741665144832          -0.709        344.82070        None         None         None
+30          UAL  2025-03-11     76.059998       RISK BUY   42.872066   8.048677       (15, 25)             Industrials            N/A    24897478656           0.626        128.93000        None         None         None
+31         UBER  2025-03-11     70.650002       RISK BUY   53.431433  15.493422       (25, 35)              Technology            N/A   147588562944            3.84         89.10420        None         None         None
+32          UPS  2025-03-11    116.360001            BUY   43.219710  17.238518       (15, 25)             Industrials          544.0    99391455232            0.07        132.13219        None         None         None
+33          XOM  2025-03-11    109.160004            BUY   48.200430   13.92347        (5, 15)                  Energy          354.0   473660555264          -0.099        129.33000        None         None         None
+34         NFLX  2025-03-11    895.099976       RISK BUY   48.963786  45.093197     (N/A, N/A)  Communication Services            N/A   382885265408           1.018       1071.73660        None         None         None
+35    600221.SS  2025-03-11      1.500000       RISK BUY   35.294116       37.5       (15, 25)             Industrials            N/A    64974901248           0.125              NaN        None         None         None
+36    603628.SS  2025-03-11     12.990000            BUY   43.184182  28.866667       (25, 35)              Technology           95.0     3556662016           0.192              NaN        None         None         None
+37    601808.SS  2025-03-11     13.990000       RISK BUY   44.444446  21.196968        (5, 15)                  Energy          150.0    52081827840           -0.12              NaN        None         None         None
+38      BTC-USD  2025-03-10  78532.000000       RISK BUY   43.697585        N/A     (N/A, N/A)                     N/A            N/A  1640782757888             N/A              NaN        None         None         None
+39      ETH-USD  2025-03-10   1861.151367            BUY   37.582205        N/A     (N/A, N/A)                     N/A            N/A   231557988352             N/A              NaN        None         None         None
+
+Analysis Date: 2024-10-7
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Analysis Date: 2024-10-7
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SAVE', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Analysis Date: 2024-10-7
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Analysis Date: 2025-03-11
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Analysis Date: 2024-10-7
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Analysis Date: 2024-10-7
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Analysis Date: 2024-10-7
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Analysis Date: 2024-10-7
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date  Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE                Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AMC  2024-10-07     4.180000            BUY   41.743118        N/A     (N/A, N/A)  Communication Services            N/A     1282891520             N/A          3.51250        None         None         None
+1          COST  2024-10-07   871.467896            BUY   53.165091   54.41462     (N/A, N/A)      Consumer Defensive           50.0   412886302720           0.026       1062.40310        None         None         None
+2          ISRG  2024-10-07   471.230011            BUY   53.813214   76.90343       (15, 25)              Healthcare            N/A   176088694784           0.118        632.52856        None         None         None
+3            KO  2024-10-07    68.490524            BUY   59.892875  28.878048     (N/A, N/A)      Consumer Defensive          286.0   305543053312           0.115         74.27680        None         None         None
+4           LLY  2024-10-07   895.371399            BUY   47.185626   70.43248       (15, 25)              Healthcare           72.0   740145954816           1.018       1006.62537        None         None         None
+5          MSFT  2024-10-07   407.903992            BUY   41.485599  30.706215       (25, 35)              Technology           87.0  2828257722368           0.102        506.37857        None         None         None
+6          PANW  2024-10-07   168.970001            BUY   50.200067  101.09039       (25, 35)              Technology            N/A   118469541888          -0.844        214.33128        None         None         None
+7           PFE  2024-10-07    28.285765            BUY   51.979254  18.432625       (15, 25)              Healthcare          646.0   147294158848             N/A         31.31600        None         None         None
+8          SMCI  2024-10-07    47.740002            BUY   33.214855  17.756521       (25, 35)              Technology            N/A    24237764608             0.0         52.33643        None         None         None
+9          SOUN  2024-10-07     4.740000            BUY   42.596348        N/A       (25, 35)              Technology            N/A     3361617152             N/A         14.57143        None         None         None
+10          TRV  2024-10-07   224.111282            BUY   55.031328  11.851025     (N/A, N/A)      Financial Services          164.0    57715625984           0.284        269.15286        None         None         None
+11      ETH-USD  2024-10-07  2421.796631            BUY   46.061984        N/A     (N/A, N/A)                     N/A            N/A   231788052480             N/A              NaN        None         None         None
+
