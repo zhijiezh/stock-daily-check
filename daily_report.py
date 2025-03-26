@@ -62,7 +62,7 @@ def get_stock_info_on_date(tickers, short_window, long_window, rsi_buy_signal, r
 
     return pd.DataFrame(data)
 
-def every_day_printer(tickers, date=datetime.today().strftime("%Y-%m-%d")):
+def every_day_printer(tickers, date=datetime.today().strftime("%Y-%m-%d")) -> str:
     # Build up the report as a list of strings
     report_lines = []
     

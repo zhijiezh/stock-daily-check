@@ -3368,3 +3368,79 @@ PDD: Earnings on 2025-03-20 00:00:00
 
 ***************************************************************************************************
 
+Analysis Date: 2025-03-14
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  60 DAY RSI   P/E Ratio Recommended PE                Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0          ALB  2025-03-14    75.230003            BUY   38.874573         N/A     (N/A, N/A)         Basic Materials          215.0    9191857152             N/A        101.86667        None         None         None
+1          AMC  2025-03-14     2.900000            BUY   36.666669         N/A     (N/A, N/A)  Communication Services            N/A    1278572032             N/A          3.51250        None         None         None
+2         CVNA  2025-03-14   181.179993            BUY   42.358087  114.817604     (N/A, N/A)       Consumer Cyclical            N/A   21349844992             N/A        268.15600        None         None         None
+3         ISRG  2025-03-14   484.440002            BUY   44.765719   75.102486       (15, 25)              Healthcare            N/A  172500729856           0.118        630.35000        None         None         None
+4         SOUN  2025-03-14    10.340000            BUY   44.153764         N/A       (25, 35)              Technology            N/A    3923791104             N/A         14.57143        None         None         None
+5    600221.SS  2025-03-14     1.510000            BUY   34.228187        38.0       (15, 25)             Industrials            N/A   65845030912           0.125              NaN        None         None         None
+6    300169.SZ  2025-03-14     7.950000            BUY   41.734417         N/A     (N/A, N/A)         Basic Materials            N/A    2549195008             N/A              NaN        None         None         None
+
+Warnings:
+{}
+
+Stocks with Upcoming Earnings:
+NKE: Earnings on 2025-03-20 00:00:00
+PDD: Earnings on 2025-03-20 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2025-03-24
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+  Company Code        Date  Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE            Category Dividend Yield    Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0         COIN  2025-03-24   203.039993            BUY   43.972078  21.440336     (N/A, N/A)  Financial Services            N/A   51547590656           3.521        318.12000        None         None         None
+1          CRM  2025-03-24   285.959991            BUY   39.523075  44.891678       (25, 35)          Technology           57.0  274807554048           0.195        375.36447        None         None         None
+2         DDOG  2025-03-24   110.169998            BUY   36.914870  207.86794       (25, 35)          Technology            N/A   37762310144          -0.148        159.47975        None         None         None
+3          MDB  2025-03-24   197.479996            BUY   43.902471        N/A       (25, 35)          Technology            N/A   16032946176             N/A        302.92000        None         None         None
+4          NVO  2025-03-24    75.330002            BUY   43.731259  22.758308       (15, 25)          Healthcare          210.0  334840365056           0.292        111.07359        None         None         None
+5         SOUN  2025-03-24    10.310000            BUY   39.340637        N/A       (25, 35)          Technology            N/A    4113298176             N/A         14.57143        None         None         None
+6         TSLA  2025-03-24   278.390015            BUY   39.386081   136.4657     (N/A, N/A)   Consumer Cyclical            N/A  895447007232          -0.709        335.60640        None         None         None
+7          UAL  2025-03-24    80.220001            BUY   43.464096   8.488889       (15, 25)         Industrials            N/A   26259214336           0.626        122.14739        None         None         None
+8    600221.SS  2025-03-24     1.470000            BUY   36.090226      36.75       (15, 25)         Industrials            N/A   63707152384           0.125              NaN        None         None         None
+9    300169.SZ  2025-03-24     7.050000            BUY   41.816463        N/A     (N/A, N/A)     Basic Materials            N/A    2298187264             N/A              NaN        None         None         None
+
+Warnings:
+{'ALK': ['rule_falling_below_ma'], 'C': ['rule_accelerating_growth'], 'SPOT': ['rule_accelerating_growth'], 'BA': ['rule_accelerating_growth']}
+
+Stocks with Upcoming Earnings:
+601808.SS: Earnings on 2025-03-25 00:00:00
+601288.SS: Earnings on 2025-03-28 00:00:00
+
+***************************************************************************************************
+
+Analysis Date: 2025-03-26
+Tickers:
+['AAPL', 'AAL', 'ASML', 'AMD', 'ABNB', 'ALK', 'ALB', 'ALTM', 'ARKK', 'ARM', 'AMC', 'ANET', 'BABA', 'BAC', 'BILI', 'BNTX', 'C', 'CDNS', 'CVNA', 'COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB', 'META', 'MSFT', 'NKE', 'NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER', 'UHAL', 'UPS', 'WFC', 'XOM', 'DHI', 'MMM', 'NFLX', '601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ', '603628.SS', '601808.SS', 'BTC-USD', 'ETH-USD']
+
+Stock Table:
+   Company Code        Date   Daily Price Recommendation  60 DAY RSI  P/E Ratio Recommended PE            Category Dividend Yield     Market Cap Earnings Growth  One Year Target Analyst Buy Analyst Hold Analyst Sell
+0           AMD  2025-03-26    110.190002            BUY   44.884059     110.19       (25, 35)          Technology            N/A   178560696320          -0.297        146.87318        None         None         None
+1          ARKK  2025-03-26     51.660000            BUY   44.167084  31.399008     (N/A, N/A)                 N/A            0.0            N/A             N/A              NaN        None         None         None
+2          ANET  2025-03-26     81.660004            BUY   40.855005  36.618835       (25, 35)          Technology            N/A   102983065600           0.295        116.17174        None         None         None
+3          NVDA  2025-03-26    113.760002            BUY   44.588502   38.69388       (25, 35)          Technology            3.0  2775743987712           0.836        171.01328        None         None         None
+4           NVO  2025-03-26     71.730003            BUY   42.677093  21.802433       (15, 25)          Healthcare          220.0   321009713152           0.292        110.38055        None         None         None
+5          ORCL  2025-03-26    147.800003            BUY   44.888924  34.694836       (25, 35)          Technology          130.0   414465196032             0.2        186.15625        None         None         None
+6          SOFI  2025-03-26     13.070000            BUY   44.226365   33.51282     (N/A, N/A)  Financial Services            N/A    14331778048           7.732         13.73125        None         None         None
+7          TSLA  2025-03-26    272.059998            BUY   37.051052   132.7122     (N/A, N/A)   Consumer Cyclical            N/A   875086413824          -0.709        335.60640        None         None         None
+8           TSM  2025-03-26    173.500000            BUY   44.651752  25.291544       (25, 35)          Technology          152.0   899866361856            0.57        247.06764        None         None         None
+9       BTC-USD  2025-03-27  86843.320312            BUY   42.008445        N/A     (N/A, N/A)                 N/A            N/A  1723183398912             N/A              NaN        None         None         None
+10      ETH-USD  2025-03-26   2001.063232            BUY   36.088595        N/A     (N/A, N/A)                 N/A            N/A   241417011200             N/A              NaN        None         None         None
+
+Warnings:
+{'C': ['rule_accelerating_growth'], 'CVNA': ['rule_price_increase'], 'SPOT': ['rule_accelerating_growth'], 'BA': ['rule_accelerating_growth'], 'TSLA': ['rule_price_increase']}
+
+Stocks with Upcoming Earnings:
+601288.SS: Earnings on 2025-03-28 00:00:00
+XOM: Earnings on 2025-04-03 00:00:00
+
+***************************************************************************************************
+
