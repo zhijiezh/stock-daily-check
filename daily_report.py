@@ -108,3 +108,13 @@ def every_day_printer(tickers, date=datetime.today().strftime("%Y-%m-%d")) -> st
 def append_to_report_file(content, filename = "stock_analysis_results.txt" ):
     with open(filename, 'a') as file:
         file.write(content)
+
+def write_to_report_file(content, filename = "daily_stock_analysis_results.txt" ):
+    with open(filename, 'w') as file:
+        file.write(content)
+
+if __name__ == "__main__":
+    report = every_day_printer(td.TICKERS, date = datetime.today().strftime("%Y-%m-%d"))
+    print(report)
+    append_to_report_file(report)
+    write_to_report_file(report)
