@@ -1,0 +1,4 @@
+# Requires Python >=3.10
+pandas==2.2.3
+yfinance==0.2.59
+matplotlib==3.10.1
