@@ -9,7 +9,7 @@ RSI_WINDOW = 60
 
 crypto = ['BTC-USD', 'ETH-USD']
 cn_tickers = ['601288.SS', '688091.SS', '600221.SS', '600733.SS', '300169.SZ','603628.SS', '601808.SS']
-tickers = ['AAPL','AAL', 'ASML','AMD', 'ABNB','ALK', 'ALB', 'ALTM', 'ARKK','ARM', 'AMC','ANET','BABA','BAC','BILI','BNTX','C', 'CDNS', 'CVNA','COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB','META', 'MSFT', 'NKE','NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER','UHAL', 'UPS', 'WFC','XOM', 'DHI', 'MMM', 'NFLX']
+tickers = ['AAPL','AAL', 'ASML','AMD', 'ABNB','ALK', 'ALB', 'TEM','ARKK','ARM', 'AMC','ANET','BABA','BAC','BILI','BNTX','C', 'CDNS', 'CVNA','COF', 'COIN', 'COST', 'CRM', 'DASH', 'DAL', 'DDOG', 'DIS', 'DUOL', 'GOOGL', 'HOOD', 'ISRG', 'JPM', 'KO', 'KRE', 'LYFT', 'LLY', 'MDB','META', 'MSFT', 'NKE','NEE', 'NVDA', 'NVO', 'ORCL', 'OXY', 'PANW', 'PDD', 'PLTR', 'PFE', 'RBLX', 'SHOP', 'SNOW', 'SOFI', 'SMCI', 'SNAP', 'SBUX', 'SPOT', 'SOUN', 'INTC', 'BA', 'TMF', 'TRV', 'TSLA', 'TSM', 'UAL', 'UBER','UHAL', 'UPS', 'WFC','XOM', 'DHI', 'MMM', 'NFLX']
 TICKERS = tickers + cn_tickers + crypto
 
 def get_market_exit_signal(index_data, long_term_ma):
