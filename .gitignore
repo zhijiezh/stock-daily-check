@@ -1,1 +1,77 @@
+# Python
 __pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data & Cache
+*.csv
+*.pkl
+*.pickle
+DATA_CACHE/
+data/
+cache/
+
+# Generated Images/Reports
+*.png
+*.jpg
+*.pdf
+backtest_results.png
+indicator_check.png
+recent_4h_backtest.png
+march_may_backtest.png
+*.html
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Legacy folder (if you want to keep it but not track changes)
+# legacy/
+
+# Temporary files
+*.tmp
+*.bak
+*~

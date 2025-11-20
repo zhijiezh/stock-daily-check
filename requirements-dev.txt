@@ -1,0 +1,8 @@
+-r requirements.txt
+
+jupyter
+notebook
+ipywidgets
+matplotlib
+seaborn
+

@@ -1,0 +1,16 @@
+{
+    "watchlist": [
+        "TQQQ",
+        "NVDA",
+        "PLTR",
+        "TSLA",
+        "AMD",
+        "QQQ",
+        "SPY"
+    ],
+    "settings": {
+        "ladder_interval": "1d",
+        "ladder_n1": 26,
+        "ladder_n2": 89
+    }
+}
