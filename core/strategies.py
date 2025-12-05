@@ -4,9 +4,23 @@ from abc import ABC, abstractmethod
 from .indicators import TechnicalIndicators
 
 class BaseStrategy(ABC):
-    def __init__(self, name, initial_cash=100000):
+    def __init__(self, name, initial_cash=100000, monthly_contribution=2000):
         self.name = name
         self.initial_cash = initial_cash
+        self.monthly_contribution = monthly_contribution
+        self._last_contribution_month = None
+
+    def _inject_monthly_cash(self, date, cash: float) -> tuple[float, bool]:
+        """Inject monthly contribution once per calendar month.
+
+        Returns updated cash and a bool indicating whether contribution happened.
+        """
+        month = date.to_period('M')
+        if self._last_contribution_month is None or month != self._last_contribution_month:
+            self._last_contribution_month = month
+            cash += self.monthly_contribution
+            return cash, True
+        return cash, False
         
     @abstractmethod
     def run(self, df: pd.DataFrame) -> pd.DataFrame:
@@ -27,44 +41,37 @@ class BuyAndHold(BaseStrategy):
         shares = 0
         equity = []
         
-        # Buy on day 1
-        first_price = df['Close'].iloc[0]
-        shares = cash / first_price
-        cash = 0
+        for date, row in df.iterrows():
+            cash, _ = self._inject_monthly_cash(date, cash)
+            price = row['Close']
+            if cash > 0:
+                shares += cash / price
+                cash = 0
+            equity.append(shares * price)
         
-        # Calculate Equity
-        df['Equity'] = shares * df['Close'] + cash
+        df['Equity'] = equity
         return df
 
 class SimpleDCA(BaseStrategy):
-    def __init__(self, initial_cash=100000, monthly_invest=1000, invest_freq=20):
+    def __init__(self, initial_cash=100000, monthly_invest=2000):
         super().__init__("Simple DCA", initial_cash)
         self.monthly_invest = monthly_invest
-        self.freq = invest_freq # Trading days (~20 = 1 month)
         
     def run(self, df):
         df = df.copy()
-        cash = self.initial_cash # Assuming we start with a lump sum OR we treat this as "Total Available Capital"
-        # For fair comparison usually:
-        # Option A: Start with large cash, drain it slowly.
-        # Option B: Infinite cash stream.
-        # Let's use Option A for apples-to-apples with Buy&Hold.
-        
-        current_cash = cash
+        cash = self.initial_cash
         shares = 0
         equity = []
         
-        for i, (date, row) in enumerate(df.iterrows()):
+        for date, row in df.iterrows():
             price = row['Close']
-            
-            # Invest periodically
-            if i % self.freq == 0 and current_cash > 0:
-                amount = min(current_cash, self.monthly_invest)
+            cash, month_changed = self._inject_monthly_cash(date, cash)
+            if month_changed and cash > 0:
+                amount = min(cash, self.monthly_invest)
                 if amount > 0:
                     shares += amount / price
-                    current_cash -= amount
-            
-            equity.append(current_cash + (shares * price))
+                    cash -= amount
+            equity.append(cash + (shares * price))
             
         df['Equity'] = equity
         return df
@@ -84,6 +91,7 @@ class MA200Strategy(BaseStrategy):
         for date, row in df.iterrows():
             price = row['Close']
             ma = row['MA200']
+            cash, _ = self._inject_monthly_cash(date, cash)
             
             if pd.isna(ma):
                 equity.append(cash)
@@ -91,11 +99,11 @@ class MA200Strategy(BaseStrategy):
                 
             # Buy Signal: Price > MA200
             if price > ma and cash > 0:
-                shares = cash / price
+                shares += cash / price  # Fix: use += instead of =
                 cash = 0
             # Sell Signal: Price < MA200
             elif price < ma and shares > 0:
-                cash = shares * price
+                cash += shares * price  # Fix: use += instead of =
                 shares = 0
                 
             equity.append(cash + (shares * price))
@@ -128,16 +136,25 @@ class DavidStrategy(BaseStrategy):
         
         for date, row in df.iterrows():
             price = row['Close']
+            cash, _ = self._inject_monthly_cash(date, cash)
+            
+            # Check if indicators are valid (not NaN)
+            blue_top = row['ladder_blue_top']
+            blue_bottom = row['ladder_blue_bottom']
+            
+            if pd.isna(blue_top) or pd.isna(blue_bottom):
+                equity.append(cash + (shares * price))
+                continue
             
             # Buy: Breakout Blue Ladder (or Yellow? User said "穿过蓝色梯子")
             # Let's stick to Blue Ladder Breakout for aggressive, or Yellow for conservative.
             # Based on chat history: "穿过蓝色梯子就会涨"
             
-            if price > row['ladder_blue_top'] and cash > 0:
-                shares = cash / price
+            if price > blue_top and cash > 0:
+                shares += cash / price
                 cash = 0
-            elif price < row['ladder_blue_bottom'] and shares > 0:
-                cash = shares * price
+            elif price < blue_bottom and shares > 0:
+                cash += shares * price
                 shares = 0
                 
             equity.append(cash + (shares * price))
@@ -175,6 +192,7 @@ class TQQQ_DCA_Plus(BaseStrategy):
         for date, row in df.iterrows():
             price = row['Close']
             high = row['High']
+            cash, _ = self._inject_monthly_cash(date, cash)
             
             # Update Stats
             stock_val = shares * price
