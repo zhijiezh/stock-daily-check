@@ -4,23 +4,38 @@ from abc import ABC, abstractmethod
 from .indicators import TechnicalIndicators
 
 class BaseStrategy(ABC):
-    def __init__(self, name, initial_cash=100000, monthly_contribution=2000):
+    def __init__(self, name, initial_cash=100000, monthly_contribution=2000, trading_start_date=None):
         self.name = name
         self.initial_cash = initial_cash
         self.monthly_contribution = monthly_contribution
+        self.trading_start_date = pd.to_datetime(trading_start_date) if trading_start_date else None
         self._last_contribution_month = None
 
     def _inject_monthly_cash(self, date, cash: float) -> tuple[float, bool]:
         """Inject monthly contribution once per calendar month.
+        
+        Only injects if date >= trading_start_date (if set).
+        This prevents buffer period from affecting starting capital.
 
         Returns updated cash and a bool indicating whether contribution happened.
         """
+        # Skip injection if before trading start date
+        if self.trading_start_date and date < self.trading_start_date:
+            return cash, False
+            
         month = date.to_period('M')
         if self._last_contribution_month is None or month != self._last_contribution_month:
             self._last_contribution_month = month
             cash += self.monthly_contribution
             return cash, True
         return cash, False
+    
+    def _should_trade(self, date) -> bool:
+        """Check if trading should occur on this date.
+        Returns False if before trading_start_date (buffer period)."""
+        if self.trading_start_date is None:
+            return True
+        return date >= self.trading_start_date
         
     @abstractmethod
     def run(self, df: pd.DataFrame) -> pd.DataFrame:
@@ -32,8 +47,8 @@ class BaseStrategy(ABC):
         pass
 
 class BuyAndHold(BaseStrategy):
-    def __init__(self, initial_cash=100000):
-        super().__init__("Buy & Hold", initial_cash)
+    def __init__(self, initial_cash=100000, trading_start_date=None):
+        super().__init__("Buy & Hold", initial_cash, trading_start_date=trading_start_date)
         
     def run(self, df):
         df = df.copy()
@@ -42,19 +57,27 @@ class BuyAndHold(BaseStrategy):
         equity = []
         
         for date, row in df.iterrows():
-            cash, _ = self._inject_monthly_cash(date, cash)
             price = row['Close']
-            if cash > 0:
-                shares += cash / price
-                cash = 0
+            
+            # Only trade and inject cash after trading_start_date
+            if self._should_trade(date):
+                cash, _ = self._inject_monthly_cash(date, cash)
+                if cash > 0:
+                    shares += cash / price
+                    cash = 0
+            else:
+                # Buffer period: just track equity at initial cash
+                equity.append(self.initial_cash)
+                continue
+                
             equity.append(shares * price)
         
         df['Equity'] = equity
         return df
 
 class SimpleDCA(BaseStrategy):
-    def __init__(self, initial_cash=100000, monthly_invest=2000):
-        super().__init__("Simple DCA", initial_cash)
+    def __init__(self, initial_cash=100000, monthly_invest=2000, trading_start_date=None):
+        super().__init__("Simple DCA", initial_cash, trading_start_date=trading_start_date)
         self.monthly_invest = monthly_invest
         
     def run(self, df):
@@ -65,20 +88,26 @@ class SimpleDCA(BaseStrategy):
         
         for date, row in df.iterrows():
             price = row['Close']
-            cash, month_changed = self._inject_monthly_cash(date, cash)
-            if month_changed and cash > 0:
-                amount = min(cash, self.monthly_invest)
-                if amount > 0:
-                    shares += amount / price
-                    cash -= amount
-            equity.append(cash + (shares * price))
+            
+            # Only trade and inject cash after trading_start_date
+            if self._should_trade(date):
+                cash, month_changed = self._inject_monthly_cash(date, cash)
+                if month_changed and cash > 0:
+                    amount = min(cash, self.monthly_invest)
+                    if amount > 0:
+                        shares += amount / price
+                        cash -= amount
+                equity.append(cash + (shares * price))
+            else:
+                # Buffer period: just track equity at initial cash
+                equity.append(self.initial_cash)
             
         df['Equity'] = equity
         return df
 
 class MA200Strategy(BaseStrategy):
-    def __init__(self, initial_cash=100000):
-        super().__init__("MA 200 Trend", initial_cash)
+    def __init__(self, initial_cash=100000, trading_start_date=None):
+        super().__init__("MA 200 Trend", initial_cash, trading_start_date=trading_start_date)
         
     def run(self, df):
         df = df.copy()
@@ -91,23 +120,33 @@ class MA200Strategy(BaseStrategy):
         for date, row in df.iterrows():
             price = row['Close']
             ma = row['MA200']
+            
+            # Only trade and inject cash after trading_start_date
+            if not self._should_trade(date):
+                # Buffer period: just track equity at initial cash
+                equity.append(self.initial_cash)
+                continue
+            
             cash, _ = self._inject_monthly_cash(date, cash)
             
             if pd.isna(ma):
-                equity.append(cash)
+                equity.append(cash + (shares * price))
                 continue
-                
-            # Buy Signal: Price > MA200
-            if price > ma and cash > 0:
-                shares += cash / price  # Fix: use += instead of =
+            
+            # Calculate total value
+            total_value = cash + (shares * price)
+            
+            # Price > MA200: Force full position (all-in)
+            if price > ma:
+                shares = total_value / price
                 cash = 0
-            # Sell Signal: Price < MA200
-            elif price < ma and shares > 0:
-                cash += shares * price  # Fix: use += instead of =
+            # Price < MA200: Force empty position (all-out)
+            elif price < ma:
+                cash = total_value
                 shares = 0
                 
             equity.append(cash + (shares * price))
-            
+        
         df['Equity'] = equity
         return df
 
@@ -122,8 +161,8 @@ class DavidStrategy(BaseStrategy):
        - Use Ladder for Trend following.
        - (User can customize if Bottom Signal overrides)
     """
-    def __init__(self, initial_cash=100000):
-        super().__init__("David (Ladder)", initial_cash)
+    def __init__(self, initial_cash=100000, trading_start_date=None):
+        super().__init__("David (Ladder)", initial_cash, trading_start_date=trading_start_date)
         
     def run(self, df):
         df = df.copy()
@@ -136,6 +175,13 @@ class DavidStrategy(BaseStrategy):
         
         for date, row in df.iterrows():
             price = row['Close']
+            
+            # Only trade and inject cash after trading_start_date
+            if not self._should_trade(date):
+                # Buffer period: just track equity at initial cash
+                equity.append(self.initial_cash)
+                continue
+            
             cash, _ = self._inject_monthly_cash(date, cash)
             
             # Check if indicators are valid (not NaN)
@@ -158,7 +204,7 @@ class DavidStrategy(BaseStrategy):
                 shares = 0
                 
             equity.append(cash + (shares * price))
-            
+        
         df['Equity'] = equity
         return df
 
@@ -169,8 +215,8 @@ class TQQQ_DCA_Plus(BaseStrategy):
     2. 3x Take Profit per lot
     3. Rebalance at ATH > 60% allocation
     """
-    def __init__(self, initial_cash=100000):
-        super().__init__("TQQQ DCA+", initial_cash)
+    def __init__(self, initial_cash=100000, trading_start_date=None):
+        super().__init__("TQQQ DCA+", initial_cash, trading_start_date=trading_start_date)
         
     def run(self, df):
         # This logic is complex, copied from your previous tqqq_backtest.py
@@ -192,6 +238,13 @@ class TQQQ_DCA_Plus(BaseStrategy):
         for date, row in df.iterrows():
             price = row['Close']
             high = row['High']
+            
+            # Only trade and inject cash after trading_start_date
+            if not self._should_trade(date):
+                # Buffer period: just track equity at initial cash
+                equity.append(self.initial_cash)
+                continue
+            
             cash, _ = self._inject_monthly_cash(date, cash)
             
             # Update Stats
